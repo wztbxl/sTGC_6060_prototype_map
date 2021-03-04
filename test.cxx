@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "Strip2CH.h"
+#include "Strip2CH.cxx"
 
 using namespace std;
 
