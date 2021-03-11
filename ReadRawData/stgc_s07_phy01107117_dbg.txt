@@ -1,0 +1,1319 @@
+[34mINFO: rts_example.C [line 187]: Opening file StRoot/RTS/src/RTS_EXAMPLE/stgc_s07_phy01107117_dbg.sfs[0m
+[34mINFO: rts_example.C [line 238]: Opened run number 01107117[0m
+[34mINFO: rts_example.C [line 253]: evt 1: sequence 8: token    1, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:34 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 2: sequence 9: token    2, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:34 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 1: sec 7, ALTRO 51(FEE25):00
+     15   9
+     14   8
+     13   9
+STGC ALTRO: evt 1: sec 7, ALTRO 28(FEE14):12
+     48   9
+     47   9
+     46   8
+STGC ALTRO: evt 1: sec 7, ALTRO 24(FEE12):05
+     27  10
+     26  12
+     25   9
+STGC ALTRO: evt 1: sec 7, ALTRO 54(FEE27):00
+     21   8
+     20  14
+     19   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 3: sequence 10: token    3, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:34 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 2: sec 7, ALTRO 51(FEE25):15
+     49   8
+     48  10
+     47   9
+STGC ALTRO: evt 2: sec 7, ALTRO 50(FEE25):10
+     52  10
+     51  11
+     50   8
+STGC ALTRO: evt 2: sec 7, ALTRO 38(FEE19):09
+      6   8
+      5   8
+      4   8
+      3   8
+STGC ALTRO: evt 2: sec 7, ALTRO  2(FEE01):02
+     30   8
+     29  11
+     28   8
+STGC ALTRO: evt 2: sec 7, ALTRO 20(FEE10):15
+     21  10
+     20  10
+     19   9
+STGC ALTRO: evt 2: sec 7, ALTRO 20(FEE10):13
+     13   9
+     12   8
+     11   8
+[34mINFO: rts_example.C [line 253]: evt 4: sequence 11: token    4, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:34 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 5: sequence 12: token    5, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:34 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 4: sec 7, ALTRO 27(FEE13):11
+     30   9
+     29   8
+     28  11
+STGC ALTRO: evt 4: sec 7, ALTRO 29(FEE14):03
+     30   8
+     29  14
+     28   9
+STGC ALTRO: evt 4: sec 7, ALTRO 28(FEE14):12
+     13   9
+     12  10
+     11   9
+STGC ALTRO: evt 4: sec 7, ALTRO 28(FEE14):10
+     15   8
+     14   9
+     13   8
+STGC ALTRO: evt 4: sec 7, ALTRO  2(FEE01):05
+     13  10
+     12  11
+     11   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 6: sequence 13: token    6, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:34 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 5: sec 7, ALTRO 13(FEE06):01
+     13  11
+     12   9
+     11   9
+     10  10
+STGC ALTRO: evt 5: sec 7, ALTRO 28(FEE14):10
+     45   8
+     44   8
+     43   9
+STGC ALTRO: evt 5: sec 7, ALTRO 24(FEE12):02
+     14   8
+     13  12
+     12   9
+STGC ALTRO: evt 5: sec 7, ALTRO 48(FEE24):06
+     23  10
+     22  12
+     21   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 7: sequence 14: token    7, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:34 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 6: sec 7, ALTRO 17(FEE08):09
+     39   8
+     38   8
+     37  15
+STGC ALTRO: evt 6: sec 7, ALTRO 29(FEE14):13
+     33  15
+     32  22
+     31  12
+STGC ALTRO: evt 6: sec 7, ALTRO 28(FEE14):09
+     53  12
+     52  12
+     51   9
+     50  11
+STGC ALTRO: evt 6: sec 7, ALTRO 28(FEE14):07
+     33   8
+     32  22
+     31   9
+STGC ALTRO: evt 6: sec 7, ALTRO 28(FEE14):03
+     33  13
+     32  16
+     31   8
+STGC ALTRO: evt 6: sec 7, ALTRO 28(FEE14):01
+     33  12
+     32  24
+     31   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 8: sequence 15: token    8, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:34 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 7: sec 7, ALTRO 32(FEE16):09
+      4   9
+      3  14
+      2   8
+STGC ALTRO: evt 7: sec 7, ALTRO 13(FEE06):15
+     24   8
+     23  13
+     22  12
+STGC ALTRO: evt 7: sec 7, ALTRO 54(FEE27):14
+      0   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 9: sequence 16: token    9, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:34 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 8: sec 7, ALTRO 42(FEE21):05
+     14   8
+     13   8
+     12   8
+STGC ALTRO: evt 8: sec 7, ALTRO 51(FEE25):07
+     35   8
+     34   8
+     33   8
+STGC ALTRO: evt 8: sec 7, ALTRO 55(FEE27):14
+     49  11
+     48  11
+     47   8
+STGC ALTRO: evt 8: sec 7, ALTRO 55(FEE27):09
+     48   9
+     47  10
+     46   8
+STGC ALTRO: evt 8: sec 7, ALTRO 54(FEE27):13
+     49   8
+     48  11
+     47   8
+STGC ALTRO: evt 8: sec 7, ALTRO 54(FEE27):04
+     48   8
+     47  10
+     46  10
+STGC ALTRO: evt 8: sec 7, ALTRO 10(FEE05):11
+     36   9
+     35  10
+     34   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 10: sequence 17: token   10, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:34 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 9: sec 7, ALTRO 21(FEE10):14
+     49   8
+     48  10
+     47   9
+STGC ALTRO: evt 9: sec 7, ALTRO 20(FEE10):12
+     51  15
+     50  12
+     49   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 11: sequence 20: token    1, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 10: sec 7, ALTRO  6(FEE03):07
+     34   9
+     33  12
+     32   9
+STGC ALTRO: evt 10: sec 7, ALTRO 51(FEE25):04
+     16   8
+     15  11
+     14   8
+STGC ALTRO: evt 10: sec 7, ALTRO 55(FEE27):00
+     13   9
+     12  11
+     11  10
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 12: sequence 21: token    2, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 11: sec 7, ALTRO 29(FEE14):08
+     39   9
+     38   9
+     37   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 13: sequence 22: token    3, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 12: sec 7, ALTRO 30(FEE15):13
+     14   9
+     13   9
+     12  10
+STGC ALTRO: evt 12: sec 7, ALTRO 29(FEE14):15
+     26  10
+     25  13
+     24   9
+STGC ALTRO: evt 12: sec 7, ALTRO 18(FEE09):15
+     38   8
+     37  10
+     36   8
+STGC ALTRO: evt 12: sec 7, ALTRO  4(FEE02):02
+     27   9
+     26  13
+     25   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 14: sequence 23: token    4, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 13: sec 7, ALTRO 50(FEE25):11
+     33   8
+     32  13
+     31   8
+STGC ALTRO: evt 13: sec 7, ALTRO  5(FEE02):13
+      9   8
+      8   8
+      7   8
+STGC ALTRO: evt 13: sec 7, ALTRO  4(FEE02):00
+     38   8
+     37  10
+     36   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 15: sequence 24: token    5, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 14: sec 7, ALTRO 60(FEE30):07
+     31  12
+     30  15
+     29   8
+STGC ALTRO: evt 14: sec 7, ALTRO 29(FEE14):15
+     33  10
+     32  13
+     31  12
+     30   9
+STGC ALTRO: evt 14: sec 7, ALTRO 29(FEE14):06
+     24   9
+     23  11
+     22  13
+STGC ALTRO: evt 14: sec 7, ALTRO 29(FEE14):05
+      2  12
+      1   9
+      0   8
+STGC ALTRO: evt 14: sec 7, ALTRO 29(FEE14):04
+     30   8
+     29  10
+     28   8
+STGC ALTRO: evt 14: sec 7, ALTRO 28(FEE14):10
+     35   8
+     34  12
+     33  11
+     32   8
+STGC ALTRO: evt 14: sec 7, ALTRO 20(FEE10):15
+      7   9
+      6   9
+      5   8
+STGC ALTRO: evt 14: sec 7, ALTRO 20(FEE10):08
+      8   8
+      7  10
+      6   8
+      5   9
+STGC ALTRO: evt 14: sec 7, ALTRO 20(FEE10):01
+     18   8
+     17  11
+     16   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 16: sequence 25: token    6, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 15: sec 7, ALTRO 50(FEE25):09
+     37  10
+     36  10
+     35   8
+STGC ALTRO: evt 15: sec 7, ALTRO 29(FEE14):08
+     33   8
+     32   8
+     31   8
+STGC ALTRO: evt 15: sec 7, ALTRO 28(FEE14):09
+      4  11
+      3  11
+      2  12
+STGC ALTRO: evt 15: sec 7, ALTRO 52(FEE26):09
+      4   8
+      3   8
+      2   8
+STGC ALTRO: evt 15: sec 7, ALTRO 20(FEE10):15
+     46   9
+     45   9
+     44   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 17: sequence 26: token    7, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 16: sec 7, ALTRO 58(FEE29):11
+     24   8
+     23  10
+     22  12
+     21  13
+STGC ALTRO: evt 16: sec 7, ALTRO 50(FEE25):06
+     49   9
+     48  13
+     47   9
+STGC ALTRO: evt 16: sec 7, ALTRO 29(FEE14):05
+     25  12
+     24   0
+     23  10
+     22  19
+     21  15
+STGC ALTRO: evt 16: sec 7, ALTRO 21(FEE10):10
+     49   8
+     48   8
+     47   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 18: sequence 27: token    8, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 17: sec 7, ALTRO 27(FEE13):03
+      5   8
+      4   9
+      3   9
+STGC ALTRO: evt 17: sec 7, ALTRO 55(FEE27):14
+     52   9
+     51  14
+     50  11
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 19: sequence 28: token    9, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 18: sec 7, ALTRO 50(FEE25):00
+     12   8
+     11   8
+     10  10
+      9   8
+STGC ALTRO: evt 18: sec 7, ALTRO 29(FEE14):05
+     41   8
+     40   8
+     39   9
+     38   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 20: sequence 29: token   10, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 19: sec 7, ALTRO 56(FEE28):03
+     33   9
+     32   8
+     31   9
+STGC ALTRO: evt 19: sec 7, ALTRO 51(FEE25):05
+     45   9
+     44  10
+     43   8
+STGC ALTRO: evt 19: sec 7, ALTRO 50(FEE25):03
+      8   8
+      7  11
+      6   8
+STGC ALTRO: evt 19: sec 7, ALTRO 28(FEE14):14
+     54   8
+STGC ALTRO: evt 19: sec 7, ALTRO 28(FEE14):11
+     54   8
+STGC ALTRO: evt 19: sec 7, ALTRO 52(FEE26):10
+     35   8
+     34  14
+     33   8
+STGC ALTRO: evt 19: sec 7, ALTRO 20(FEE10):02
+     15   9
+     14  10
+     13   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 21: sequence 30: token   11, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 20: sec 7, ALTRO 13(FEE06):14
+     12   9
+     11   9
+     10   8
+STGC ALTRO: evt 20: sec 7, ALTRO 29(FEE14):03
+      6  10
+      5  13
+      4  10
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 22: sequence 31: token   12, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 21: sec 7, ALTRO 58(FEE29):03
+     29   9
+     28   8
+     27  10
+     26  10
+STGC ALTRO: evt 21: sec 7, ALTRO 15(FEE07):05
+     11   9
+     10   9
+      9   8
+STGC ALTRO: evt 21: sec 7, ALTRO 55(FEE27):05
+     30   8
+     29   8
+     28   8
+STGC ALTRO: evt 21: sec 7, ALTRO 54(FEE27):11
+     30   9
+     29   9
+     28  10
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 23: sequence 32: token   13, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 22: sec 7, ALTRO 21(FEE10):07
+     49   9
+     48  11
+     47   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 24: sequence 33: token   14, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 23: sec 7, ALTRO 54(FEE27):07
+     41   8
+     40   8
+     39   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 25: sequence 34: token   15, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 24: sec 7, ALTRO  9(FEE04):01
+     44   9
+     43   8
+     42   8
+     41   9
+STGC ALTRO: evt 24: sec 7, ALTRO 25(FEE12):04
+     46   8
+     45  14
+     44   8
+STGC ALTRO: evt 24: sec 7, ALTRO 21(FEE10):10
+     43   8
+     42  10
+     41   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 26: sequence 35: token   16, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 25: sec 7, ALTRO  8(FEE04):09
+     36   9
+     35   9
+     34   8
+STGC ALTRO: evt 25: sec 7, ALTRO 48(FEE24):02
+     24   9
+     23  11
+     22   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 27: sequence 36: token   17, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 26: sec 7, ALTRO 31(FEE15):15
+     13   9
+     12  11
+     11   9
+STGC ALTRO: evt 26: sec 7, ALTRO 42(FEE21):06
+     38   9
+     37  12
+     36   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 28: sequence 37: token   18, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 27: sec 7, ALTRO 59(FEE29):03
+     39   8
+     38  10
+     37   8
+STGC ALTRO: evt 27: sec 7, ALTRO 17(FEE08):11
+     34  11
+     33  10
+     32   8
+STGC ALTRO: evt 27: sec 7, ALTRO 54(FEE27):02
+     35   8
+     34   8
+     33   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 29: sequence 38: token   19, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 28: sec 7, ALTRO 22(FEE11):00
+      6   8
+      5   9
+      4   8
+STGC ALTRO: evt 28: sec 7, ALTRO 50(FEE25):03
+     21   8
+     20   8
+     19   8
+STGC ALTRO: evt 28: sec 7, ALTRO 28(FEE14):14
+     29   8
+     28  15
+     27  11
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 30: sequence 39: token   20, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 29: sec 7, ALTRO 47(FEE23):04
+     53   9
+     52   8
+     51   8
+STGC ALTRO: evt 29: sec 7, ALTRO 12(FEE06):05
+      8   8
+      7  11
+      6   8
+STGC ALTRO: evt 29: sec 7, ALTRO 28(FEE14):15
+     30   9
+     29   9
+     28   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 31: sequence 40: token   21, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 30: sec 7, ALTRO 15(FEE07):02
+     33   8
+     32   8
+     31   8
+STGC ALTRO: evt 30: sec 7, ALTRO 25(FEE12):08
+     46   9
+     45  10
+     44   9
+STGC ALTRO: evt 30: sec 7, ALTRO 25(FEE12):05
+     49   8
+     48   9
+     47   8
+STGC ALTRO: evt 30: sec 7, ALTRO 55(FEE27):04
+      4   9
+      3  11
+      2   8
+STGC ALTRO: evt 30: sec 7, ALTRO 21(FEE10):14
+     35  10
+     34   9
+     33  11
+[34mINFO: rts_example.C [line 253]: evt 32: sequence 41: token   22, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 33: sequence 42: token   23, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 32: sec 7, ALTRO 51(FEE25):09
+      6   8
+      5  10
+      4   8
+STGC ALTRO: evt 32: sec 7, ALTRO 55(FEE27):12
+      3  10
+      2  11
+      1   9
+STGC ALTRO: evt 32: sec 7, ALTRO 20(FEE10):14
+      3   8
+      2   8
+      1   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 34: sequence 43: token   24, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 33: sec 7, ALTRO 13(FEE06):12
+     49  12
+     48  13
+     47   9
+STGC ALTRO: evt 33: sec 7, ALTRO 24(FEE12):09
+     45   8
+     44  11
+     43   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 35: sequence 44: token   25, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 34: sec 7, ALTRO 40(FEE20):01
+     54  12
+     53  10
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 36: sequence 45: token   26, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 35: sec 7, ALTRO 24(FEE12):14
+     28   8
+     27   9
+     26   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 37: sequence 46: token   27, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 36: sec 7, ALTRO 59(FEE29):03
+     48   8
+     47  12
+     46  15
+     45  11
+STGC ALTRO: evt 36: sec 7, ALTRO 59(FEE29):00
+     45   8
+     44   9
+     43   8
+STGC ALTRO: evt 36: sec 7, ALTRO 58(FEE29):05
+     47   8
+     46  11
+     45   9
+STGC ALTRO: evt 36: sec 7, ALTRO  8(FEE04):07
+     18   8
+     17  10
+     16   9
+STGC ALTRO: evt 36: sec 7, ALTRO 33(FEE16):05
+     39   8
+     38   8
+     37   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 38: sequence 47: token   28, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 37: sec 7, ALTRO 54(FEE27):14
+     17   8
+     16  12
+     15   8
+STGC ALTRO: evt 37: sec 7, ALTRO 20(FEE10):13
+     33   9
+     32  11
+     31   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 39: sequence 48: token   29, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 38: sec 7, ALTRO 51(FEE25):11
+     46   8
+     45  10
+     44   9
+STGC ALTRO: evt 38: sec 7, ALTRO 12(FEE06):08
+     49   8
+     48   8
+     47   8
+STGC ALTRO: evt 38: sec 7, ALTRO 52(FEE26):09
+      0   8
+STGC ALTRO: evt 38: sec 7, ALTRO 20(FEE10):03
+     17   8
+     16  10
+     15   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 40: sequence 49: token   30, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 39: sec 7, ALTRO 35(FEE17):14
+     16   9
+     15  11
+     14   8
+STGC ALTRO: evt 39: sec 7, ALTRO 59(FEE29):00
+     13  10
+     12   8
+     11   9
+     10  10
+STGC ALTRO: evt 39: sec 7, ALTRO  8(FEE04):09
+      6   9
+      5  12
+      4   8
+STGC ALTRO: evt 39: sec 7, ALTRO 25(FEE12):14
+     16   8
+     15   9
+     14   9
+STGC ALTRO: evt 39: sec 7, ALTRO 20(FEE10):01
+     50   9
+     49   9
+     48   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 41: sequence 50: token   31, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 40: sec 7, ALTRO 14(FEE07):07
+      5   8
+      4  11
+      3  10
+STGC ALTRO: evt 40: sec 7, ALTRO 25(FEE12):05
+     26   8
+     25  11
+     24  10
+STGC ALTRO: evt 40: sec 7, ALTRO  5(FEE02):05
+      6   8
+      5   8
+      4   8
+STGC ALTRO: evt 40: sec 7, ALTRO 21(FEE10):00
+      7   8
+      6  11
+      5   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 42: sequence 51: token   32, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 41: sec 7, ALTRO 34(FEE17):04
+     23   9
+     22  11
+     21   9
+STGC ALTRO: evt 41: sec 7, ALTRO  4(FEE02):15
+     41   8
+     40   8
+     39   8
+STGC ALTRO: evt 41: sec 7, ALTRO 21(FEE10):13
+     41  11
+     40   8
+     39   8
+     38   8
+STGC ALTRO: evt 41: sec 7, ALTRO 20(FEE10):09
+     38   8
+     37  10
+     36  11
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 43: sequence 52: token   33, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 42: sec 7, ALTRO 59(FEE29):15
+     22   8
+     21  11
+     20  10
+STGC ALTRO: evt 42: sec 7, ALTRO 29(FEE14):05
+     30   8
+     29   9
+     28   9
+STGC ALTRO: evt 42: sec 7, ALTRO 25(FEE12):05
+     22   9
+     21   8
+     20   8
+STGC ALTRO: evt 42: sec 7, ALTRO 55(FEE27):01
+     16   8
+     15   9
+     14  13
+     13   8
+STGC ALTRO: evt 42: sec 7, ALTRO 54(FEE27):12
+     17   8
+     16   8
+     15   8
+STGC ALTRO: evt 42: sec 7, ALTRO  5(FEE02):02
+      5   9
+      4   9
+      3   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 44: sequence 53: token   34, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 43: sec 7, ALTRO 45(FEE22):11
+     33   8
+     32  10
+     31   8
+STGC ALTRO: evt 43: sec 7, ALTRO 45(FEE22):00
+     12   8
+     11  11
+     10  10
+STGC ALTRO: evt 43: sec 7, ALTRO 53(FEE26):14
+     23   8
+     22   9
+     21   8
+STGC ALTRO: evt 43: sec 7, ALTRO  4(FEE02):09
+      6   8
+      5   9
+      4   8
+STGC ALTRO: evt 43: sec 7, ALTRO 48(FEE24):14
+     29   8
+     28   8
+     27   9
+     26   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 45: sequence 54: token   35, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 44: sec 7, ALTRO 31(FEE15):11
+     17   8
+     16  10
+     15   9
+STGC ALTRO: evt 44: sec 7, ALTRO 31(FEE15):02
+     32   8
+     31   9
+     30   9
+STGC ALTRO: evt 44: sec 7, ALTRO 29(FEE14):10
+     54   8
+STGC ALTRO: evt 44: sec 7, ALTRO 49(FEE24):15
+     53   8
+     52   9
+     51   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 46: sequence 55: token   36, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 45: sec 7, ALTRO  5(FEE02):12
+     20   8
+     19   8
+     18   8
+STGC ALTRO: evt 45: sec 7, ALTRO  5(FEE02):10
+     17   9
+     16   9
+     15   9
+STGC ALTRO: evt 45: sec 7, ALTRO 20(FEE10):13
+     34   8
+     33   9
+     32   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 47: sequence 56: token   37, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 46: sec 7, ALTRO 38(FEE19):07
+     33   8
+     32  10
+     31   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 48: sequence 57: token   38, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 47: sec 7, ALTRO 21(FEE10):08
+      4   8
+      3   9
+      2   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 49: sequence 58: token   39, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 48: sec 7, ALTRO 22(FEE11):10
+      7  10
+      6  11
+      5   9
+STGC ALTRO: evt 48: sec 7, ALTRO 51(FEE25):12
+     48   8
+     47   8
+     46   8
+STGC ALTRO: evt 48: sec 7, ALTRO 29(FEE14):07
+     11   8
+     10  11
+      9   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 50: sequence 59: token   40, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 49: sec 7, ALTRO 59(FEE29):00
+      7  10
+      6   8
+      5   8
+STGC ALTRO: evt 49: sec 7, ALTRO 12(FEE06):12
+     34   8
+     33  11
+     32   8
+STGC ALTRO: evt 49: sec 7, ALTRO 25(FEE12):01
+     41   8
+     40   9
+     39   8
+STGC ALTRO: evt 49: sec 7, ALTRO 10(FEE05):04
+      7   8
+      6   9
+      5   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 51: sequence 60: token   41, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 50: sec 7, ALTRO 26(FEE13):05
+      6   9
+      5  12
+      4   9
+STGC ALTRO: evt 50: sec 7, ALTRO 50(FEE25):06
+     39   9
+     38  12
+     37   8
+STGC ALTRO: evt 50: sec 7, ALTRO 19(FEE09):05
+     46   9
+     45  10
+     44   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 52: sequence 61: token   42, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 51: sec 7, ALTRO 21(FEE10):13
+     12   9
+     11   9
+     10   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 53: sequence 62: token   43, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 52: sec 7, ALTRO 27(FEE13):02
+     36   9
+     35  10
+     34   9
+STGC ALTRO: evt 52: sec 7, ALTRO 54(FEE27):05
+     44   9
+     43  10
+     42   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 54: sequence 63: token   44, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 53: sec 7, ALTRO 42(FEE21):09
+     18   8
+     17  10
+     16  11
+STGC ALTRO: evt 53: sec 7, ALTRO 14(FEE07):08
+     30   8
+     29   9
+     28   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 55: sequence 64: token   45, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 54: sec 7, ALTRO 57(FEE28):06
+     17   8
+     16   8
+     15  10
+STGC ALTRO: evt 54: sec 7, ALTRO 21(FEE10):13
+     15   9
+     14  10
+     13   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 56: sequence 65: token   46, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 55: sec 7, ALTRO  7(FEE03):08
+     16   8
+     15  10
+     14   8
+STGC ALTRO: evt 55: sec 7, ALTRO 29(FEE14):04
+     29   8
+     28  12
+     27  11
+     26   8
+STGC ALTRO: evt 55: sec 7, ALTRO 25(FEE12):15
+     35   8
+     34   8
+     33   8
+STGC ALTRO: evt 55: sec 7, ALTRO 24(FEE12):00
+     50   8
+     49  11
+     48   8
+STGC ALTRO: evt 55: sec 7, ALTRO  4(FEE02):00
+     43   8
+     42   9
+     41   8
+STGC ALTRO: evt 55: sec 7, ALTRO 21(FEE10):07
+     25   9
+     24  10
+     23   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 57: sequence 66: token   47, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 56: sec 7, ALTRO 59(FEE29):00
+     32   9
+     31   9
+     30   8
+STGC ALTRO: evt 56: sec 7, ALTRO 14(FEE07):15
+      2   8
+      1  11
+      0   8
+STGC ALTRO: evt 56: sec 7, ALTRO 25(FEE12):13
+     43  10
+     42  11
+     41  10
+STGC ALTRO: evt 56: sec 7, ALTRO 24(FEE12):02
+     17  12
+     16  11
+     15   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 58: sequence 67: token   48, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 57: sec 7, ALTRO 52(FEE26):08
+     50   8
+     49   9
+     48   8
+STGC ALTRO: evt 57: sec 7, ALTRO 20(FEE10):07
+     50   8
+     49   8
+     48   8
+     47   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 59: sequence 68: token   49, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 58: sec 7, ALTRO 51(FEE25):02
+     17   8
+     16  10
+     15   9
+STGC ALTRO: evt 58: sec 7, ALTRO 28(FEE14):10
+     35   8
+     34  10
+     33   9
+     32   9
+STGC ALTRO: evt 58: sec 7, ALTRO 54(FEE27):03
+     23   8
+     22   8
+     21   8
+     20   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 60: sequence 69: token   50, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 59: sec 7, ALTRO 50(FEE25):00
+     11   8
+     10  10
+      9   8
+STGC ALTRO: evt 59: sec 7, ALTRO 12(FEE06):10
+     26   8
+     25   9
+     24   9
+STGC ALTRO: evt 59: sec 7, ALTRO 21(FEE10):13
+     53   8
+     52   9
+     51  10
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 61: sequence 70: token   51, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 60: sec 7, ALTRO 57(FEE28):10
+     43   8
+     42  11
+     41   8
+STGC ALTRO: evt 60: sec 7, ALTRO 22(FEE11):08
+     27   8
+     26   8
+     25   8
+STGC ALTRO: evt 60: sec 7, ALTRO 38(FEE19):02
+     13   8
+     12   8
+     11   8
+STGC ALTRO: evt 60: sec 7, ALTRO 25(FEE12):02
+     35   9
+     34  13
+     33  11
+STGC ALTRO: evt 60: sec 7, ALTRO 55(FEE27):07
+     21  10
+     20   9
+     19   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 62: sequence 71: token   52, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 61: sec 7, ALTRO 29(FEE14):09
+      1   9
+      0  12
+STGC ALTRO: evt 61: sec 7, ALTRO 14(FEE07):04
+     24   8
+     23   9
+     22   8
+[34mINFO: rts_example.C [line 253]: evt 63: sequence 72: token   53, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 64: sequence 73: token   54, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 63: sec 7, ALTRO 55(FEE27):00
+     29   8
+     28   8
+     27   8
+STGC ALTRO: evt 63: sec 7, ALTRO 54(FEE27):02
+     54   9
+     53  10
+     52   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 65: sequence 74: token   55, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 64: sec 7, ALTRO 19(FEE09):07
+     26   8
+     25  11
+     24   8
+STGC ALTRO: evt 64: sec 7, ALTRO  4(FEE02):13
+     43   9
+     42  10
+     41   8
+STGC ALTRO: evt 64: sec 7, ALTRO 20(FEE10):11
+      9   8
+      8  10
+      7   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 66: sequence 75: token   56, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 65: sec 7, ALTRO 37(FEE18):05
+     54   8
+     53  11
+     52   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 67: sequence 76: token   57, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 66: sec 7, ALTRO 30(FEE15):01
+     31   9
+     30  11
+     29   8
+STGC ALTRO: evt 66: sec 7, ALTRO 29(FEE14):06
+     10   8
+      9  10
+      8   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 68: sequence 77: token   58, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 67: sec 7, ALTRO 47(FEE23):00
+     28   8
+     27  10
+     26   9
+STGC ALTRO: evt 67: sec 7, ALTRO 42(FEE21):08
+     19   8
+     18   9
+     17  10
+STGC ALTRO: evt 67: sec 7, ALTRO 51(FEE25):15
+      6   8
+      5   9
+      4   9
+STGC ALTRO: evt 67: sec 7, ALTRO 25(FEE12):00
+     30   8
+     29   8
+     28  11
+     27   8
+STGC ALTRO: evt 67: sec 7, ALTRO 10(FEE05):07
+     42   8
+     41  11
+     40   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 69: sequence 78: token   59, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 68: sec 7, ALTRO 38(FEE19):01
+     20   9
+     19   9
+     18   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 70: sequence 79: token   60, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 69: sec 7, ALTRO 12(FEE06):05
+     39  10
+     38  11
+     37   9
+STGC ALTRO: evt 69: sec 7, ALTRO  4(FEE02):09
+     50   9
+     49  11
+     48  10
+STGC ALTRO: evt 69: sec 7, ALTRO  4(FEE02):03
+     44   8
+     43  10
+     42   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 71: sequence 80: token   61, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 70: sec 7, ALTRO 35(FEE17):09
+      4   8
+      3   8
+      2   8
+STGC ALTRO: evt 70: sec 7, ALTRO  9(FEE04):15
+     24  10
+     23  11
+     22   8
+STGC ALTRO: evt 70: sec 7, ALTRO 50(FEE25):03
+     27   9
+     26  14
+     25   8
+STGC ALTRO: evt 70: sec 7, ALTRO 24(FEE12):13
+      2   9
+      1  11
+      0  10
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 72: sequence 81: token   62, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 71: sec 7, ALTRO 43(FEE21):08
+     42   8
+     41   9
+     40   8
+STGC ALTRO: evt 71: sec 7, ALTRO 12(FEE06):13
+     54   9
+     53   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 73: sequence 82: token   63, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 72: sec 7, ALTRO 29(FEE14):11
+     54   8
+     53   8
+STGC ALTRO: evt 72: sec 7, ALTRO 28(FEE14):08
+     37   8
+     36   8
+     35   8
+STGC ALTRO: evt 72: sec 7, ALTRO 54(FEE27):00
+     48   9
+     47   9
+     46   9
+STGC ALTRO: evt 72: sec 7, ALTRO 21(FEE10):04
+      2   8
+      1  13
+      0   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 74: sequence 83: token   64, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 73: sec 7, ALTRO 29(FEE14):12
+     34  10
+     33   8
+     32   8
+STGC ALTRO: evt 73: sec 7, ALTRO 29(FEE14):03
+     34   8
+     33  12
+     32   9
+STGC ALTRO: evt 73: sec 7, ALTRO 28(FEE14):14
+     33  10
+     32  11
+     31   9
+STGC ALTRO: evt 73: sec 7, ALTRO 14(FEE07):11
+     44   8
+     43  11
+     42   8
+STGC ALTRO: evt 73: sec 7, ALTRO 52(FEE26):12
+     11   8
+     10  12
+      9   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 75: sequence 84: token   65, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 74: sec 7, ALTRO 25(FEE12):05
+      1   8
+      0  10
+STGC ALTRO: evt 74: sec 7, ALTRO 53(FEE26):14
+     29  10
+     28   9
+     27   9
+STGC ALTRO: evt 74: sec 7, ALTRO 55(FEE27):02
+     29   8
+     28   8
+     27   8
+STGC ALTRO: evt 74: sec 7, ALTRO  4(FEE02):03
+     46   9
+     45  10
+     44   8
+STGC ALTRO: evt 74: sec 7, ALTRO 21(FEE10):12
+      6   8
+      5   9
+      4   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 76: sequence 85: token   66, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 75: sec 7, ALTRO 24(FEE12):11
+     16  11
+     15  10
+     14   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 77: sequence 86: token   67, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 76: sec 7, ALTRO 24(FEE12):06
+      0   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 78: sequence 87: token   68, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 77: sec 7, ALTRO 58(FEE29):12
+     44   9
+     43  10
+     42   9
+STGC ALTRO: evt 77: sec 7, ALTRO  4(FEE02):07
+      8   8
+      7  11
+      6   8
+STGC ALTRO: evt 77: sec 7, ALTRO 21(FEE10):03
+     15  10
+     14  10
+     13   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 79: sequence 88: token   69, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 78: sec 7, ALTRO 25(FEE12):06
+     53   8
+     52   8
+     51   9
+STGC ALTRO: evt 78: sec 7, ALTRO 21(FEE10):13
+     32   8
+     31   9
+     30  11
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 80: sequence 89: token   70, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 79: sec 7, ALTRO 29(FEE14):06
+     37  10
+     36  10
+     35   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 81: sequence 90: token   71, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 80: sec 7, ALTRO 30(FEE15):01
+     23   8
+     22   9
+     21   8
+STGC ALTRO: evt 80: sec 7, ALTRO 12(FEE06):05
+     51   8
+     50   8
+     49   9
+      3   8
+      2   8
+      1   8
+STGC ALTRO: evt 80: sec 7, ALTRO 28(FEE14):05
+      4   8
+      3  13
+      2   8
+STGC ALTRO: evt 80: sec 7, ALTRO 24(FEE12):02
+     18   9
+     17  10
+     16  10
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 82: sequence 91: token   72, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 81: sec 7, ALTRO 31(FEE15):02
+     49   8
+     48  13
+     47   8
+STGC ALTRO: evt 81: sec 7, ALTRO 20(FEE10):03
+     33   9
+     32   9
+     31  10
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 83: sequence 92: token   73, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 82: sec 7, ALTRO 27(FEE13):10
+     46   8
+     45   9
+     44   8
+STGC ALTRO: evt 82: sec 7, ALTRO  9(FEE04):02
+     24   8
+     23   9
+     22   9
+STGC ALTRO: evt 82: sec 7, ALTRO 28(FEE14):09
+     47  12
+     46   9
+     45   8
+     44  10
+STGC ALTRO: evt 82: sec 7, ALTRO 28(FEE14):08
+     54   8
+STGC ALTRO: evt 82: sec 7, ALTRO 25(FEE12):00
+     16   8
+     15   8
+     14   8
+STGC ALTRO: evt 82: sec 7, ALTRO 41(FEE20):06
+     35   8
+     34  11
+     33   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 84: sequence 93: token   74, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 83: sec 7, ALTRO  9(FEE04):04
+     28  11
+     27  13
+     26  10
+STGC ALTRO: evt 83: sec 7, ALTRO  8(FEE04):13
+     31   8
+     30   8
+     29   8
+STGC ALTRO: evt 83: sec 7, ALTRO  6(FEE03):08
+     22   8
+     21  11
+     20   8
+STGC ALTRO: evt 83: sec 7, ALTRO 28(FEE14):09
+      2  12
+      1  12
+      0  10
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 85: sequence 94: token   75, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 84: sec 7, ALTRO 28(FEE14):11
+     19   8
+     18   9
+     17   8
+STGC ALTRO: evt 84: sec 7, ALTRO 28(FEE14):01
+     18   9
+     17  12
+     16   9
+     15   8
+STGC ALTRO: evt 84: sec 7, ALTRO 20(FEE10):13
+     51   9
+     50  13
+     49   9
+STGC ALTRO: evt 84: sec 7, ALTRO 20(FEE10):11
+     52   8
+     51   9
+     50   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 86: sequence 95: token   76, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 85: sec 7, ALTRO 61(FEE30):08
+     45   9
+     44  13
+     43  11
+STGC ALTRO: evt 85: sec 7, ALTRO 32(FEE16):03
+     47   8
+     46   9
+     45   8
+STGC ALTRO: evt 85: sec 7, ALTRO  2(FEE01):04
+     46   8
+     45  10
+     44   9
+STGC ALTRO: evt 85: sec 7, ALTRO 21(FEE10):08
+     43   8
+     42   9
+     41   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 87: sequence 96: token   77, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 86: sec 7, ALTRO 58(FEE29):11
+     21   9
+     20   8
+     19   8
+     18   8
+STGC ALTRO: evt 86: sec 7, ALTRO 50(FEE25):12
+      7   8
+      6   9
+      5   8
+STGC ALTRO: evt 86: sec 7, ALTRO 21(FEE10):15
+     39   9
+     38   8
+     37   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 88: sequence 97: token   78, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 87: sec 7, ALTRO  8(FEE04):14
+     54   8
+STGC ALTRO: evt 87: sec 7, ALTRO 50(FEE25):12
+     29  10
+     28   8
+     27   8
+STGC ALTRO: evt 87: sec 7, ALTRO 24(FEE12):02
+     40   8
+     39  10
+     38   8
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 89: sequence 98: token   79, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 88: sec 7, ALTRO 58(FEE29):10
+      8  13
+      7  11
+      6   9
+STGC ALTRO: evt 88: sec 7, ALTRO 29(FEE14):09
+     41   9
+     40  11
+     39   8
+STGC ALTRO: evt 88: sec 7, ALTRO 28(FEE14):10
+     42  10
+     41  11
+     40   9
+STGC ALTRO: evt 88: sec 7, ALTRO 28(FEE14):02
+     46   8
+     45   9
+     44  10
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 90: sequence 99: token   80, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 89: sec 7, ALTRO 28(FEE14):08
+     19   8
+     18   9
+     17   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 253]: evt 91: sequence 100: token   81, trgcmd 4, daqcmd 2, time "Fri Feb 26 06:01:42 2021", detectors 0x00000100 (status 0x0), evpgroups 0x0[0m
+STGC ALTRO: evt 90: sec 7, ALTRO 59(FEE29):15
+      9   8
+      8  11
+      7  10
+STGC ALTRO: evt 90: sec 7, ALTRO 29(FEE14):03
+     44   8
+     43   8
+     42   9
+[34mINFO: rts_example.C [line 2831]: STGC found[0m
+[34mINFO: rts_example.C [line 242]: End of File reached...[0m
+[34mINFO: rts_example.C [line 441]: Found 91 good, 0 bad events[0m
+STGC ALTRO: evt 91: sec 7, ALTRO 54(FEE27):02
+     28   8
+     27   8
+     26   8

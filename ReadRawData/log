@@ -1,0 +1,3990 @@
+
+Processing ReadRawData.cxx( "stgc_s07_phy01107117_dbg.txt" )...
+1032
+2032
+3032
+1064
+2064
+3064
+1096
+2096
+3096
+2126
+3126
+2158
+3158
+2190
+3190
+1
+4
+5
+2
+3
+6
+7
+8
+9
+12
+13
+10
+11
+14
+15
+FEE channel is 0 Strip Channel is 15
+FEE channel is 1 Strip Channel is 16
+FEE channel is 2 Strip Channel is 13
+FEE channel is 3 Strip Channel is 14
+FEE channel is 4 Strip Channel is 11
+FEE channel is 5 Strip Channel is 12
+FEE channel is 6 Strip Channel is 9
+FEE channel is 7 Strip Channel is 10
+FEE channel is 15 Strip Channel is 7
+FEE channel is 14 Strip Channel is 8
+FEE channel is 13 Strip Channel is 5
+FEE channel is 12 Strip Channel is 6
+FEE channel is 11 Strip Channel is 3
+FEE channel is 10 Strip Channel is 4
+FEE channel is 9 Strip Channel is 1
+FEE channel is 8 Strip Channel is 2
+FEE channel is 0 Strip Channel is 32
+FEE channel is 1 Strip Channel is 31
+FEE channel is 2 Strip Channel is 30
+FEE channel is 3 Strip Channel is 29
+FEE channel is 4 Strip Channel is 28
+FEE channel is 5 Strip Channel is 27
+FEE channel is 6 Strip Channel is 26
+FEE channel is 7 Strip Channel is 25
+FEE channel is 15 Strip Channel is 24
+FEE channel is 14 Strip Channel is 23
+FEE channel is 13 Strip Channel is 22
+FEE channel is 12 Strip Channel is 21
+FEE channel is 11 Strip Channel is 20
+FEE channel is 10 Strip Channel is 19
+FEE channel is 9 Strip Channel is 18
+FEE channel is 8 Strip Channel is 17
+1032
+2032
+3032
+1064
+2064
+3064
+1096
+2096
+3096
+2126
+3126
+2158
+3158
+2190
+3190
+16
+17
+20
+21
+18
+19
+22
+23
+24
+25
+28
+29
+26
+27
+30
+FEE channel is 0 Strip Channel is 15
+FEE channel is 1 Strip Channel is 16
+FEE channel is 2 Strip Channel is 13
+FEE channel is 3 Strip Channel is 14
+FEE channel is 4 Strip Channel is 11
+FEE channel is 5 Strip Channel is 12
+FEE channel is 6 Strip Channel is 9
+FEE channel is 7 Strip Channel is 10
+FEE channel is 15 Strip Channel is 7
+FEE channel is 14 Strip Channel is 8
+FEE channel is 13 Strip Channel is 5
+FEE channel is 12 Strip Channel is 6
+FEE channel is 11 Strip Channel is 3
+FEE channel is 10 Strip Channel is 4
+FEE channel is 9 Strip Channel is 1
+FEE channel is 8 Strip Channel is 2
+FEE channel is 0 Strip Channel is 32
+FEE channel is 1 Strip Channel is 31
+FEE channel is 2 Strip Channel is 30
+FEE channel is 3 Strip Channel is 29
+FEE channel is 4 Strip Channel is 28
+FEE channel is 5 Strip Channel is 27
+FEE channel is 6 Strip Channel is 26
+FEE channel is 7 Strip Channel is 25
+FEE channel is 15 Strip Channel is 24
+FEE channel is 14 Strip Channel is 23
+FEE channel is 13 Strip Channel is 22
+FEE channel is 12 Strip Channel is 21
+FEE channel is 11 Strip Channel is 20
+FEE channel is 10 Strip Channel is 19
+FEE channel is 9 Strip Channel is 18
+FEE channel is 8 Strip Channel is 17
+ Booking the event tree 
+0th Event
+1th Event
+n_FireChannel = 0 n_FireTimeBin = 0
+35
+25       51       0       
+Strip = 2095
+n_FireChannel = 1
+timebin = 15 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 15 ADC = 9
+timebin = 14 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 14 ADC = 8
+timebin = 13 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 13 ADC = 9
+35
+14       28       12      
+Strip = 2185
+n_FireChannel = 2
+timebin = 48 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 48 ADC = 9
+timebin = 47 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 47 ADC = 9
+timebin = 46 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 46 ADC = 8
+35
+12       24       5       
+Strip = 2115
+n_FireChannel = 3
+timebin = 27 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 27 ADC = 10
+timebin = 26 ADC = 12
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 26 ADC = 12
+timebin = 25 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 25 ADC = 9
+35
+27       54       0       
+Strip = 2176
+n_FireChannel = 4
+timebin = 21 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 21 ADC = 8
+timebin = 20 ADC = 14
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 20 ADC = 14
+timebin = 19 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 19 ADC = 9
+2th Event
+ n_TotalFireTimeBin = 0 timebin = 15 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 14 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 13 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 48 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 47 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 46 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 27 ADC = 10
+ n_TotalFireTimeBin = 7 timebin = 26 ADC = 12
+ n_TotalFireTimeBin = 8 timebin = 25 ADC = 9
+ n_TotalFireTimeBin = 9 timebin = 21 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 20 ADC = 14
+ n_TotalFireTimeBin = 11 timebin = 19 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 3
+35
+25       51       15      
+Strip = 2103
+n_FireChannel = 1
+timebin = 49 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 49 ADC = 8
+timebin = 48 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 48 ADC = 10
+timebin = 47 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 47 ADC = 9
+35
+25       50       10      
+Strip = 2123
+n_FireChannel = 2
+timebin = 52 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 52 ADC = 10
+timebin = 51 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 51 ADC = 11
+timebin = 50 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 50 ADC = 8
+35
+19       38       9       
+Strip = 3064
+n_FireChannel = 3
+timebin = 6 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 6 ADC = 8
+timebin = 5 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 5 ADC = 8
+timebin = 4 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 4 ADC = 8
+timebin = 3 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 3 ADC = 8
+35
+1        2        2       
+Strip = 1020
+n_FireChannel = 4
+timebin = 30 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 30 ADC = 8
+timebin = 29 ADC = 11
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 29 ADC = 11
+timebin = 28 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 28 ADC = 8
+35
+10       20       15      
+Strip = 2152
+n_FireChannel = 5
+timebin = 21 ADC = 10
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 21 ADC = 10
+timebin = 20 ADC = 10
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 20 ADC = 10
+timebin = 19 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 15 timebin = 19 ADC = 9
+35
+10       20       13      
+Strip = 2154
+n_FireChannel = 6
+timebin = 13 ADC = 9
+n_FireChannel = 6 n_FireTimeBin = 16 timebin = 13 ADC = 9
+timebin = 12 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 17 timebin = 12 ADC = 8
+timebin = 11 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 18 timebin = 11 ADC = 8
+3th Event
+ n_TotalFireTimeBin = 0 timebin = 49 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 48 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 47 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 52 ADC = 10
+ n_TotalFireTimeBin = 4 timebin = 51 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 50 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 6 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 5 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 4 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 3 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 30 ADC = 8
+ n_TotalFireTimeBin = 11 timebin = 29 ADC = 11
+ n_TotalFireTimeBin = 12 timebin = 28 ADC = 8
+ n_TotalFireTimeBin = 13 timebin = 21 ADC = 10
+ n_TotalFireTimeBin = 14 timebin = 20 ADC = 10
+ n_TotalFireTimeBin = 15 timebin = 19 ADC = 9
+ n_TotalFireTimeBin = 16 timebin = 13 ADC = 9
+ n_TotalFireTimeBin = 17 timebin = 12 ADC = 8
+ n_TotalFireTimeBin = 18 timebin = 11 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 3
+4th Event
+n_FireChannel = 0 n_FireTimeBin = 3
+35
+13       27       11      
+Strip = 3107
+n_FireChannel = 1
+timebin = 30 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 30 ADC = 9
+timebin = 29 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 29 ADC = 8
+timebin = 28 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 28 ADC = 11
+35
+14       29       3       
+Strip = 2162
+n_FireChannel = 2
+timebin = 30 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 30 ADC = 8
+timebin = 29 ADC = 14
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 29 ADC = 14
+timebin = 28 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 28 ADC = 9
+35
+14       28       12      
+Strip = 2185
+n_FireChannel = 3
+timebin = 13 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 13 ADC = 9
+timebin = 12 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 12 ADC = 10
+timebin = 11 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 11 ADC = 9
+35
+14       28       10      
+Strip = 2187
+n_FireChannel = 4
+timebin = 15 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 15 ADC = 8
+timebin = 14 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 14 ADC = 9
+timebin = 13 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 13 ADC = 8
+35
+1        2        5       
+Strip = 1021
+n_FireChannel = 5
+timebin = 13 ADC = 10
+n_FireChannel = 5 n_FireTimeBin = 12 timebin = 13 ADC = 10
+timebin = 12 ADC = 11
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 12 ADC = 11
+timebin = 11 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 11 ADC = 8
+5th Event
+ n_TotalFireTimeBin = 0 timebin = 30 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 29 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 28 ADC = 11
+ n_TotalFireTimeBin = 3 timebin = 30 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 29 ADC = 14
+ n_TotalFireTimeBin = 5 timebin = 28 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 13 ADC = 9
+ n_TotalFireTimeBin = 7 timebin = 12 ADC = 10
+ n_TotalFireTimeBin = 8 timebin = 11 ADC = 9
+ n_TotalFireTimeBin = 9 timebin = 15 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 14 ADC = 9
+ n_TotalFireTimeBin = 11 timebin = 13 ADC = 8
+ n_TotalFireTimeBin = 12 timebin = 13 ADC = 10
+ n_TotalFireTimeBin = 13 timebin = 12 ADC = 11
+ n_TotalFireTimeBin = 14 timebin = 11 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 3
+35
+6        13       1       
+Strip = 3034
+n_FireChannel = 1
+timebin = 13 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 13 ADC = 11
+timebin = 12 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 12 ADC = 9
+timebin = 11 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 11 ADC = 9
+timebin = 10 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 3 timebin = 10 ADC = 10
+35
+14       28       10      
+Strip = 2187
+n_FireChannel = 2
+timebin = 45 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 45 ADC = 8
+timebin = 44 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 44 ADC = 8
+timebin = 43 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 43 ADC = 9
+35
+12       24       2       
+Strip = 2114
+n_FireChannel = 3
+timebin = 14 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 14 ADC = 8
+timebin = 13 ADC = 12
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 13 ADC = 12
+timebin = 12 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 12 ADC = 9
+35
+24       48       6       
+Strip = 3088
+n_FireChannel = 4
+timebin = 23 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 23 ADC = 10
+timebin = 22 ADC = 12
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 22 ADC = 12
+timebin = 21 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 21 ADC = 8
+6th Event
+ n_TotalFireTimeBin = 0 timebin = 13 ADC = 11
+ n_TotalFireTimeBin = 1 timebin = 12 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 11 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 10 ADC = 10
+ n_TotalFireTimeBin = 4 timebin = 45 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 44 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 43 ADC = 9
+ n_TotalFireTimeBin = 7 timebin = 14 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 13 ADC = 12
+ n_TotalFireTimeBin = 9 timebin = 12 ADC = 9
+ n_TotalFireTimeBin = 10 timebin = 23 ADC = 10
+ n_TotalFireTimeBin = 11 timebin = 22 ADC = 12
+ n_TotalFireTimeBin = 12 timebin = 21 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 3
+35
+8        17       9       
+Strip = 2079
+n_FireChannel = 1
+timebin = 39 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 39 ADC = 8
+timebin = 38 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 38 ADC = 8
+timebin = 37 ADC = 15
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 37 ADC = 15
+35
+14       29       13      
+Strip = 2169
+n_FireChannel = 2
+timebin = 33 ADC = 15
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 33 ADC = 15
+timebin = 32 ADC = 22
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 32 ADC = 22
+timebin = 31 ADC = 12
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 31 ADC = 12
+35
+14       28       9       
+Strip = 2190
+n_FireChannel = 3
+timebin = 53 ADC = 12
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 53 ADC = 12
+timebin = 52 ADC = 12
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 52 ADC = 12
+timebin = 51 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 51 ADC = 9
+timebin = 50 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 50 ADC = 11
+35
+14       28       7       
+Strip = 2181
+n_FireChannel = 4
+timebin = 33 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 33 ADC = 8
+timebin = 32 ADC = 22
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 32 ADC = 22
+timebin = 31 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 31 ADC = 9
+35
+14       28       3       
+Strip = 2177
+n_FireChannel = 5
+timebin = 33 ADC = 13
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 33 ADC = 13
+timebin = 32 ADC = 16
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 32 ADC = 16
+timebin = 31 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 15 timebin = 31 ADC = 8
+35
+14       28       1       
+Strip = 2175
+n_FireChannel = 6
+timebin = 33 ADC = 12
+n_FireChannel = 6 n_FireTimeBin = 16 timebin = 33 ADC = 12
+timebin = 32 ADC = 24
+n_FireChannel = 6 n_FireTimeBin = 17 timebin = 32 ADC = 24
+timebin = 31 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 18 timebin = 31 ADC = 8
+7th Event
+ n_TotalFireTimeBin = 0 timebin = 39 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 38 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 37 ADC = 15
+ n_TotalFireTimeBin = 3 timebin = 33 ADC = 15
+ n_TotalFireTimeBin = 4 timebin = 32 ADC = 22
+ n_TotalFireTimeBin = 5 timebin = 31 ADC = 12
+ n_TotalFireTimeBin = 6 timebin = 53 ADC = 12
+ n_TotalFireTimeBin = 7 timebin = 52 ADC = 12
+ n_TotalFireTimeBin = 8 timebin = 51 ADC = 9
+ n_TotalFireTimeBin = 9 timebin = 50 ADC = 11
+ n_TotalFireTimeBin = 10 timebin = 33 ADC = 8
+ n_TotalFireTimeBin = 11 timebin = 32 ADC = 22
+ n_TotalFireTimeBin = 12 timebin = 31 ADC = 9
+ n_TotalFireTimeBin = 13 timebin = 33 ADC = 13
+ n_TotalFireTimeBin = 14 timebin = 32 ADC = 16
+ n_TotalFireTimeBin = 15 timebin = 31 ADC = 8
+ n_TotalFireTimeBin = 16 timebin = 33 ADC = 12
+ n_TotalFireTimeBin = 17 timebin = 32 ADC = 24
+ n_TotalFireTimeBin = 18 timebin = 31 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 3
+35
+16       32       9       
+Strip = 1032
+n_FireChannel = 1
+timebin = 4 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 4 ADC = 9
+timebin = 3 ADC = 14
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 3 ADC = 14
+timebin = 2 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 2 ADC = 8
+35
+6        13       15      
+Strip = 3041
+n_FireChannel = 2
+timebin = 24 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 24 ADC = 8
+timebin = 23 ADC = 13
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 23 ADC = 13
+timebin = 22 ADC = 12
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 22 ADC = 12
+35
+27       54       14      
+Strip = 2183
+n_FireChannel = 3
+timebin = 0 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 0 ADC = 9
+8th Event
+ n_TotalFireTimeBin = 0 timebin = 4 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 3 ADC = 14
+ n_TotalFireTimeBin = 2 timebin = 2 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 24 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 23 ADC = 13
+ n_TotalFireTimeBin = 5 timebin = 22 ADC = 12
+ n_TotalFireTimeBin = 6 timebin = 0 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 1
+35
+21       42       5       
+Strip = 1053
+n_FireChannel = 1
+timebin = 14 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 14 ADC = 8
+timebin = 13 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 13 ADC = 8
+timebin = 12 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 12 ADC = 8
+35
+25       51       7       
+Strip = 2102
+n_FireChannel = 2
+timebin = 35 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 35 ADC = 8
+timebin = 34 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 34 ADC = 8
+timebin = 33 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 33 ADC = 8
+35
+27       55       14      
+Strip = 2168
+n_FireChannel = 3
+timebin = 49 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 49 ADC = 11
+timebin = 48 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 48 ADC = 11
+timebin = 47 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 47 ADC = 8
+35
+27       55       9       
+Strip = 2173
+n_FireChannel = 4
+timebin = 48 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 48 ADC = 9
+timebin = 47 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 47 ADC = 10
+timebin = 46 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 46 ADC = 8
+35
+27       54       13      
+Strip = 2186
+n_FireChannel = 5
+timebin = 49 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 12 timebin = 49 ADC = 8
+timebin = 48 ADC = 11
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 48 ADC = 11
+timebin = 47 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 47 ADC = 8
+35
+27       54       4       
+Strip = 2180
+n_FireChannel = 6
+timebin = 48 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 15 timebin = 48 ADC = 8
+timebin = 47 ADC = 10
+n_FireChannel = 6 n_FireTimeBin = 16 timebin = 47 ADC = 10
+timebin = 46 ADC = 10
+n_FireChannel = 6 n_FireTimeBin = 17 timebin = 46 ADC = 10
+35
+5        10       11      
+Strip = 3030
+n_FireChannel = 7
+timebin = 36 ADC = 9
+n_FireChannel = 7 n_FireTimeBin = 18 timebin = 36 ADC = 9
+timebin = 35 ADC = 10
+n_FireChannel = 7 n_FireTimeBin = 19 timebin = 35 ADC = 10
+timebin = 34 ADC = 8
+n_FireChannel = 7 n_FireTimeBin = 20 timebin = 34 ADC = 8
+9th Event
+ n_TotalFireTimeBin = 0 timebin = 14 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 13 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 12 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 35 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 34 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 33 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 49 ADC = 11
+ n_TotalFireTimeBin = 7 timebin = 48 ADC = 11
+ n_TotalFireTimeBin = 8 timebin = 47 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 48 ADC = 9
+ n_TotalFireTimeBin = 10 timebin = 47 ADC = 10
+ n_TotalFireTimeBin = 11 timebin = 46 ADC = 8
+ n_TotalFireTimeBin = 12 timebin = 49 ADC = 8
+ n_TotalFireTimeBin = 13 timebin = 48 ADC = 11
+ n_TotalFireTimeBin = 14 timebin = 47 ADC = 8
+ n_TotalFireTimeBin = 15 timebin = 48 ADC = 8
+ n_TotalFireTimeBin = 16 timebin = 47 ADC = 10
+ n_TotalFireTimeBin = 17 timebin = 46 ADC = 10
+ n_TotalFireTimeBin = 18 timebin = 36 ADC = 9
+ n_TotalFireTimeBin = 19 timebin = 35 ADC = 10
+ n_TotalFireTimeBin = 20 timebin = 34 ADC = 8
+n_FireChannel = 7 n_FireTimeBin = 3
+35
+10       21       14      
+Strip = 2136
+n_FireChannel = 1
+timebin = 49 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 49 ADC = 8
+timebin = 48 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 48 ADC = 10
+timebin = 47 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 47 ADC = 9
+35
+10       20       12      
+Strip = 2153
+n_FireChannel = 2
+timebin = 51 ADC = 15
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 51 ADC = 15
+timebin = 50 ADC = 12
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 50 ADC = 12
+timebin = 49 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 49 ADC = 8
+10th Event
+ n_TotalFireTimeBin = 0 timebin = 49 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 48 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 47 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 51 ADC = 15
+ n_TotalFireTimeBin = 4 timebin = 50 ADC = 12
+ n_TotalFireTimeBin = 5 timebin = 49 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+3        6        7       
+Strip = 2055
+n_FireChannel = 1
+timebin = 34 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 34 ADC = 9
+timebin = 33 ADC = 12
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 33 ADC = 12
+timebin = 32 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 32 ADC = 9
+36
+25       51       4       
+Strip = 2099
+n_FireChannel = 2
+timebin = 16 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 16 ADC = 8
+timebin = 15 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 15 ADC = 11
+timebin = 14 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 14 ADC = 8
+36
+27       55       0       
+Strip = 2159
+n_FireChannel = 3
+timebin = 13 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 13 ADC = 9
+timebin = 12 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 12 ADC = 11
+timebin = 11 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 11 ADC = 10
+11th Event
+ n_TotalFireTimeBin = 0 timebin = 34 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 33 ADC = 12
+ n_TotalFireTimeBin = 2 timebin = 32 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 16 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 15 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 14 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 13 ADC = 9
+ n_TotalFireTimeBin = 7 timebin = 12 ADC = 11
+ n_TotalFireTimeBin = 8 timebin = 11 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+14       29       8       
+Strip = 2174
+n_FireChannel = 1
+timebin = 39 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 39 ADC = 9
+timebin = 38 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 38 ADC = 9
+timebin = 37 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 37 ADC = 8
+12th Event
+ n_TotalFireTimeBin = 0 timebin = 39 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 38 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 37 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 3
+36
+15       30       13      
+Strip = 3186
+n_FireChannel = 1
+timebin = 14 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 14 ADC = 9
+timebin = 13 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 13 ADC = 9
+timebin = 12 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 12 ADC = 10
+36
+14       29       15      
+Strip = 2167
+n_FireChannel = 2
+timebin = 26 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 26 ADC = 10
+timebin = 25 ADC = 13
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 25 ADC = 13
+timebin = 24 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 24 ADC = 9
+36
+9        18       15      
+Strip = 3090
+n_FireChannel = 3
+timebin = 38 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 38 ADC = 8
+timebin = 37 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 37 ADC = 10
+timebin = 36 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 36 ADC = 8
+36
+2        4        2       
+Strip = 1052
+n_FireChannel = 4
+timebin = 27 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 27 ADC = 9
+timebin = 26 ADC = 13
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 26 ADC = 13
+timebin = 25 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 25 ADC = 9
+13th Event
+ n_TotalFireTimeBin = 0 timebin = 14 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 13 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 12 ADC = 10
+ n_TotalFireTimeBin = 3 timebin = 26 ADC = 10
+ n_TotalFireTimeBin = 4 timebin = 25 ADC = 13
+ n_TotalFireTimeBin = 5 timebin = 24 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 38 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 37 ADC = 10
+ n_TotalFireTimeBin = 8 timebin = 36 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 27 ADC = 9
+ n_TotalFireTimeBin = 10 timebin = 26 ADC = 13
+ n_TotalFireTimeBin = 11 timebin = 25 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+25       50       11      
+Strip = 2124
+n_FireChannel = 1
+timebin = 33 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 33 ADC = 8
+timebin = 32 ADC = 13
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 32 ADC = 13
+timebin = 31 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 31 ADC = 8
+36
+2        5        13      
+Strip = 1043
+n_FireChannel = 2
+timebin = 9 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 9 ADC = 8
+timebin = 8 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 8 ADC = 8
+timebin = 7 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 7 ADC = 8
+36
+2        4        0       
+Strip = 1050
+n_FireChannel = 3
+timebin = 38 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 38 ADC = 8
+timebin = 37 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 37 ADC = 10
+timebin = 36 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 36 ADC = 8
+14th Event
+ n_TotalFireTimeBin = 0 timebin = 33 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 32 ADC = 13
+ n_TotalFireTimeBin = 2 timebin = 31 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 9 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 8 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 7 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 38 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 37 ADC = 10
+ n_TotalFireTimeBin = 8 timebin = 36 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+30       60       7       
+Strip = 3181
+n_FireChannel = 1
+timebin = 31 ADC = 12
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 31 ADC = 12
+timebin = 30 ADC = 15
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 30 ADC = 15
+timebin = 29 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 29 ADC = 8
+36
+14       29       15      
+Strip = 2167
+n_FireChannel = 2
+timebin = 33 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 33 ADC = 10
+timebin = 32 ADC = 13
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 32 ADC = 13
+timebin = 31 ADC = 12
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 31 ADC = 12
+timebin = 30 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 30 ADC = 9
+36
+14       29       6       
+Strip = 2165
+n_FireChannel = 3
+timebin = 24 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 24 ADC = 9
+timebin = 23 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 23 ADC = 11
+timebin = 22 ADC = 13
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 22 ADC = 13
+36
+14       29       5       
+Strip = 2164
+n_FireChannel = 4
+timebin = 2 ADC = 12
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 2 ADC = 12
+timebin = 1 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 1 ADC = 9
+timebin = 0 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 0 ADC = 8
+36
+14       29       4       
+Strip = 2163
+n_FireChannel = 5
+timebin = 30 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 30 ADC = 8
+timebin = 29 ADC = 10
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 29 ADC = 10
+timebin = 28 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 15 timebin = 28 ADC = 8
+36
+14       28       10      
+Strip = 2187
+n_FireChannel = 6
+timebin = 35 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 16 timebin = 35 ADC = 8
+timebin = 34 ADC = 12
+n_FireChannel = 6 n_FireTimeBin = 17 timebin = 34 ADC = 12
+timebin = 33 ADC = 11
+n_FireChannel = 6 n_FireTimeBin = 18 timebin = 33 ADC = 11
+timebin = 32 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 19 timebin = 32 ADC = 8
+36
+10       20       15      
+Strip = 2152
+n_FireChannel = 7
+timebin = 7 ADC = 9
+n_FireChannel = 7 n_FireTimeBin = 20 timebin = 7 ADC = 9
+timebin = 6 ADC = 9
+n_FireChannel = 7 n_FireTimeBin = 21 timebin = 6 ADC = 9
+timebin = 5 ADC = 8
+n_FireChannel = 7 n_FireTimeBin = 22 timebin = 5 ADC = 8
+36
+10       20       8       
+Strip = 2157
+n_FireChannel = 8
+timebin = 8 ADC = 8
+n_FireChannel = 8 n_FireTimeBin = 23 timebin = 8 ADC = 8
+timebin = 7 ADC = 10
+n_FireChannel = 8 n_FireTimeBin = 24 timebin = 7 ADC = 10
+timebin = 6 ADC = 8
+n_FireChannel = 8 n_FireTimeBin = 25 timebin = 6 ADC = 8
+timebin = 5 ADC = 9
+n_FireChannel = 8 n_FireTimeBin = 26 timebin = 5 ADC = 9
+36
+10       20       1       
+Strip = 2143
+n_FireChannel = 9
+timebin = 18 ADC = 8
+n_FireChannel = 9 n_FireTimeBin = 27 timebin = 18 ADC = 8
+timebin = 17 ADC = 11
+n_FireChannel = 9 n_FireTimeBin = 28 timebin = 17 ADC = 11
+timebin = 16 ADC = 8
+n_FireChannel = 9 n_FireTimeBin = 29 timebin = 16 ADC = 8
+15th Event
+ n_TotalFireTimeBin = 0 timebin = 31 ADC = 12
+ n_TotalFireTimeBin = 1 timebin = 30 ADC = 15
+ n_TotalFireTimeBin = 2 timebin = 29 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 33 ADC = 10
+ n_TotalFireTimeBin = 4 timebin = 32 ADC = 13
+ n_TotalFireTimeBin = 5 timebin = 31 ADC = 12
+ n_TotalFireTimeBin = 6 timebin = 30 ADC = 9
+ n_TotalFireTimeBin = 7 timebin = 24 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 23 ADC = 11
+ n_TotalFireTimeBin = 9 timebin = 22 ADC = 13
+ n_TotalFireTimeBin = 10 timebin = 2 ADC = 12
+ n_TotalFireTimeBin = 11 timebin = 1 ADC = 9
+ n_TotalFireTimeBin = 12 timebin = 0 ADC = 8
+ n_TotalFireTimeBin = 13 timebin = 30 ADC = 8
+ n_TotalFireTimeBin = 14 timebin = 29 ADC = 10
+ n_TotalFireTimeBin = 15 timebin = 28 ADC = 8
+ n_TotalFireTimeBin = 16 timebin = 35 ADC = 8
+ n_TotalFireTimeBin = 17 timebin = 34 ADC = 12
+ n_TotalFireTimeBin = 18 timebin = 33 ADC = 11
+ n_TotalFireTimeBin = 19 timebin = 32 ADC = 8
+ n_TotalFireTimeBin = 20 timebin = 7 ADC = 9
+ n_TotalFireTimeBin = 21 timebin = 6 ADC = 9
+ n_TotalFireTimeBin = 22 timebin = 5 ADC = 8
+ n_TotalFireTimeBin = 23 timebin = 8 ADC = 8
+ n_TotalFireTimeBin = 24 timebin = 7 ADC = 10
+ n_TotalFireTimeBin = 25 timebin = 6 ADC = 8
+ n_TotalFireTimeBin = 26 timebin = 5 ADC = 9
+ n_TotalFireTimeBin = 27 timebin = 18 ADC = 8
+ n_TotalFireTimeBin = 28 timebin = 17 ADC = 11
+ n_TotalFireTimeBin = 29 timebin = 16 ADC = 8
+n_FireChannel = 9 n_FireTimeBin = 3
+36
+25       50       9       
+Strip = 2126
+n_FireChannel = 1
+timebin = 37 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 37 ADC = 10
+timebin = 36 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 36 ADC = 10
+timebin = 35 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 35 ADC = 8
+36
+14       29       8       
+Strip = 2174
+n_FireChannel = 2
+timebin = 33 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 33 ADC = 8
+timebin = 32 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 32 ADC = 8
+timebin = 31 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 31 ADC = 8
+36
+14       28       9       
+Strip = 2190
+n_FireChannel = 3
+timebin = 4 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 4 ADC = 11
+timebin = 3 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 3 ADC = 11
+timebin = 2 ADC = 12
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 2 ADC = 12
+36
+26       52       9       
+Strip = 3158
+n_FireChannel = 4
+timebin = 4 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 4 ADC = 8
+timebin = 3 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 3 ADC = 8
+timebin = 2 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 2 ADC = 8
+36
+10       20       15      
+Strip = 2152
+n_FireChannel = 5
+timebin = 46 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 12 timebin = 46 ADC = 9
+timebin = 45 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 45 ADC = 9
+timebin = 44 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 44 ADC = 8
+16th Event
+ n_TotalFireTimeBin = 0 timebin = 37 ADC = 10
+ n_TotalFireTimeBin = 1 timebin = 36 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 35 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 33 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 32 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 31 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 4 ADC = 11
+ n_TotalFireTimeBin = 7 timebin = 3 ADC = 11
+ n_TotalFireTimeBin = 8 timebin = 2 ADC = 12
+ n_TotalFireTimeBin = 9 timebin = 4 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 3 ADC = 8
+ n_TotalFireTimeBin = 11 timebin = 2 ADC = 8
+ n_TotalFireTimeBin = 12 timebin = 46 ADC = 9
+ n_TotalFireTimeBin = 13 timebin = 45 ADC = 9
+ n_TotalFireTimeBin = 14 timebin = 44 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 3
+36
+29       58       11      
+Strip = 2156
+n_FireChannel = 1
+timebin = 24 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 24 ADC = 8
+timebin = 23 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 23 ADC = 10
+timebin = 22 ADC = 12
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 22 ADC = 12
+timebin = 21 ADC = 13
+n_FireChannel = 1 n_FireTimeBin = 3 timebin = 21 ADC = 13
+36
+25       50       6       
+Strip = 2118
+n_FireChannel = 2
+timebin = 49 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 49 ADC = 9
+timebin = 48 ADC = 13
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 48 ADC = 13
+timebin = 47 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 47 ADC = 9
+36
+14       29       5       
+Strip = 2164
+n_FireChannel = 3
+timebin = 25 ADC = 12
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 25 ADC = 12
+timebin = 24 ADC = 0
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 24 ADC = 0
+timebin = 23 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 23 ADC = 10
+timebin = 22 ADC = 19
+n_FireChannel = 3 n_FireTimeBin = 10 timebin = 22 ADC = 19
+timebin = 21 ADC = 15
+n_FireChannel = 3 n_FireTimeBin = 11 timebin = 21 ADC = 15
+36
+10       21       10      
+Strip = 2140
+n_FireChannel = 4
+timebin = 49 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 49 ADC = 8
+timebin = 48 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 13 timebin = 48 ADC = 8
+timebin = 47 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 14 timebin = 47 ADC = 8
+17th Event
+ n_TotalFireTimeBin = 0 timebin = 24 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 23 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 22 ADC = 12
+ n_TotalFireTimeBin = 3 timebin = 21 ADC = 13
+ n_TotalFireTimeBin = 4 timebin = 49 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 48 ADC = 13
+ n_TotalFireTimeBin = 6 timebin = 47 ADC = 9
+ n_TotalFireTimeBin = 7 timebin = 25 ADC = 12
+ n_TotalFireTimeBin = 8 timebin = 24 ADC = 0
+ n_TotalFireTimeBin = 9 timebin = 23 ADC = 10
+ n_TotalFireTimeBin = 10 timebin = 22 ADC = 19
+ n_TotalFireTimeBin = 11 timebin = 21 ADC = 15
+ n_TotalFireTimeBin = 12 timebin = 49 ADC = 8
+ n_TotalFireTimeBin = 13 timebin = 48 ADC = 8
+ n_TotalFireTimeBin = 14 timebin = 47 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+13       27       3       
+Strip = 3098
+n_FireChannel = 1
+timebin = 5 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 5 ADC = 8
+timebin = 4 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 4 ADC = 9
+timebin = 3 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 3 ADC = 9
+36
+27       55       14      
+Strip = 2168
+n_FireChannel = 2
+timebin = 52 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 52 ADC = 9
+timebin = 51 ADC = 14
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 51 ADC = 14
+timebin = 50 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 50 ADC = 11
+18th Event
+ n_TotalFireTimeBin = 0 timebin = 5 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 4 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 3 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 52 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 51 ADC = 14
+ n_TotalFireTimeBin = 5 timebin = 50 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+25       50       0       
+Strip = 2112
+n_FireChannel = 1
+timebin = 12 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 12 ADC = 8
+timebin = 11 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 11 ADC = 8
+timebin = 10 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 10 ADC = 10
+timebin = 9 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 3 timebin = 9 ADC = 8
+36
+14       29       5       
+Strip = 2164
+n_FireChannel = 2
+timebin = 41 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 41 ADC = 8
+timebin = 40 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 40 ADC = 8
+timebin = 39 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 39 ADC = 9
+timebin = 38 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 7 timebin = 38 ADC = 8
+19th Event
+ n_TotalFireTimeBin = 0 timebin = 12 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 11 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 10 ADC = 10
+ n_TotalFireTimeBin = 3 timebin = 9 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 41 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 40 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 39 ADC = 9
+ n_TotalFireTimeBin = 7 timebin = 38 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4
+36
+28       56       3       
+Strip = 3113
+n_FireChannel = 1
+timebin = 33 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 33 ADC = 9
+timebin = 32 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 32 ADC = 8
+timebin = 31 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 31 ADC = 9
+36
+25       51       5       
+Strip = 2100
+n_FireChannel = 2
+timebin = 45 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 45 ADC = 9
+timebin = 44 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 44 ADC = 10
+timebin = 43 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 43 ADC = 8
+36
+25       50       3       
+Strip = 2113
+n_FireChannel = 3
+timebin = 8 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 8 ADC = 8
+timebin = 7 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 7 ADC = 11
+timebin = 6 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 6 ADC = 8
+36
+14       28       14      
+Strip = 2183
+n_FireChannel = 4
+timebin = 54 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 54 ADC = 8
+36
+14       28       11      
+Strip = 2188
+n_FireChannel = 5
+timebin = 54 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 10 timebin = 54 ADC = 8
+36
+26       52       10      
+Strip = 3155
+n_FireChannel = 6
+timebin = 35 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 11 timebin = 35 ADC = 8
+timebin = 34 ADC = 14
+n_FireChannel = 6 n_FireTimeBin = 12 timebin = 34 ADC = 14
+timebin = 33 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 13 timebin = 33 ADC = 8
+36
+10       20       2       
+Strip = 2146
+n_FireChannel = 7
+timebin = 15 ADC = 9
+n_FireChannel = 7 n_FireTimeBin = 14 timebin = 15 ADC = 9
+timebin = 14 ADC = 10
+n_FireChannel = 7 n_FireTimeBin = 15 timebin = 14 ADC = 10
+timebin = 13 ADC = 9
+n_FireChannel = 7 n_FireTimeBin = 16 timebin = 13 ADC = 9
+20th Event
+ n_TotalFireTimeBin = 0 timebin = 33 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 32 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 31 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 45 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 44 ADC = 10
+ n_TotalFireTimeBin = 5 timebin = 43 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 8 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 7 ADC = 11
+ n_TotalFireTimeBin = 8 timebin = 6 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 54 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 54 ADC = 8
+ n_TotalFireTimeBin = 11 timebin = 35 ADC = 8
+ n_TotalFireTimeBin = 12 timebin = 34 ADC = 14
+ n_TotalFireTimeBin = 13 timebin = 33 ADC = 8
+ n_TotalFireTimeBin = 14 timebin = 15 ADC = 9
+ n_TotalFireTimeBin = 15 timebin = 14 ADC = 10
+ n_TotalFireTimeBin = 16 timebin = 13 ADC = 9
+n_FireChannel = 7 n_FireTimeBin = 3
+36
+6        13       14      
+Strip = 3042
+n_FireChannel = 1
+timebin = 12 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 12 ADC = 9
+timebin = 11 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 11 ADC = 9
+timebin = 10 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 10 ADC = 8
+36
+14       29       3       
+Strip = 2162
+n_FireChannel = 2
+timebin = 6 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 6 ADC = 10
+timebin = 5 ADC = 13
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 5 ADC = 13
+timebin = 4 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 4 ADC = 10
+21th Event
+ n_TotalFireTimeBin = 0 timebin = 12 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 11 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 10 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 6 ADC = 10
+ n_TotalFireTimeBin = 4 timebin = 5 ADC = 13
+ n_TotalFireTimeBin = 5 timebin = 4 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+29       58       3       
+Strip = 2145
+n_FireChannel = 1
+timebin = 29 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 29 ADC = 9
+timebin = 28 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 28 ADC = 8
+timebin = 27 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 27 ADC = 10
+timebin = 26 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 3 timebin = 26 ADC = 10
+36
+7        15       5       
+Strip = 1070
+n_FireChannel = 2
+timebin = 11 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 11 ADC = 9
+timebin = 10 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 10 ADC = 9
+timebin = 9 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 9 ADC = 8
+36
+27       55       5       
+Strip = 2164
+n_FireChannel = 3
+timebin = 30 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 30 ADC = 8
+timebin = 29 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 29 ADC = 8
+timebin = 28 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 28 ADC = 8
+36
+27       54       11      
+Strip = 2188
+n_FireChannel = 4
+timebin = 30 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 30 ADC = 9
+timebin = 29 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 29 ADC = 9
+timebin = 28 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 28 ADC = 10
+22th Event
+ n_TotalFireTimeBin = 0 timebin = 29 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 28 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 27 ADC = 10
+ n_TotalFireTimeBin = 3 timebin = 26 ADC = 10
+ n_TotalFireTimeBin = 4 timebin = 11 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 10 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 9 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 30 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 29 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 28 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 30 ADC = 9
+ n_TotalFireTimeBin = 11 timebin = 29 ADC = 9
+ n_TotalFireTimeBin = 12 timebin = 28 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+10       21       7       
+Strip = 2134
+n_FireChannel = 1
+timebin = 49 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 49 ADC = 9
+timebin = 48 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 48 ADC = 11
+timebin = 47 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 47 ADC = 9
+23th Event
+ n_TotalFireTimeBin = 0 timebin = 49 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 48 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 47 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 3
+36
+27       54       7       
+Strip = 2181
+n_FireChannel = 1
+timebin = 41 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 41 ADC = 8
+timebin = 40 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 40 ADC = 8
+timebin = 39 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 39 ADC = 8
+24th Event
+ n_TotalFireTimeBin = 0 timebin = 41 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 40 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 39 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 3
+36
+4        9        1       
+Strip = 2002
+n_FireChannel = 1
+timebin = 44 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 44 ADC = 9
+timebin = 43 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 43 ADC = 8
+timebin = 42 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 42 ADC = 8
+timebin = 41 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 3 timebin = 41 ADC = 9
+36
+12       25       4       
+Strip = 2099
+n_FireChannel = 2
+timebin = 46 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 46 ADC = 8
+timebin = 45 ADC = 14
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 45 ADC = 14
+timebin = 44 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 44 ADC = 8
+36
+10       21       10      
+Strip = 2140
+n_FireChannel = 3
+timebin = 43 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 43 ADC = 8
+timebin = 42 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 42 ADC = 10
+timebin = 41 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 41 ADC = 8
+25th Event
+ n_TotalFireTimeBin = 0 timebin = 44 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 43 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 42 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 41 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 46 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 45 ADC = 14
+ n_TotalFireTimeBin = 6 timebin = 44 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 43 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 42 ADC = 10
+ n_TotalFireTimeBin = 9 timebin = 41 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+4        8        9       
+Strip = 2032
+n_FireChannel = 1
+timebin = 36 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 36 ADC = 9
+timebin = 35 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 35 ADC = 9
+timebin = 34 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 34 ADC = 8
+36
+24       48       2       
+Strip = 3084
+n_FireChannel = 2
+timebin = 24 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 24 ADC = 9
+timebin = 23 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 23 ADC = 11
+timebin = 22 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 22 ADC = 8
+26th Event
+ n_TotalFireTimeBin = 0 timebin = 36 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 35 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 34 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 24 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 23 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 22 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+15       31       15      
+Strip = 3167
+n_FireChannel = 1
+timebin = 13 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 13 ADC = 9
+timebin = 12 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 12 ADC = 11
+timebin = 11 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 11 ADC = 9
+36
+21       42       6       
+Strip = 1056
+n_FireChannel = 2
+timebin = 38 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 38 ADC = 9
+timebin = 37 ADC = 12
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 37 ADC = 12
+timebin = 36 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 36 ADC = 9
+27th Event
+ n_TotalFireTimeBin = 0 timebin = 13 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 12 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 11 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 38 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 37 ADC = 12
+ n_TotalFireTimeBin = 5 timebin = 36 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+29       59       3       
+Strip = 2130
+n_FireChannel = 1
+timebin = 39 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 39 ADC = 8
+timebin = 38 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 38 ADC = 10
+timebin = 37 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 37 ADC = 8
+36
+8        17       11      
+Strip = 2077
+n_FireChannel = 2
+timebin = 34 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 34 ADC = 11
+timebin = 33 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 33 ADC = 10
+timebin = 32 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 32 ADC = 8
+36
+27       54       2       
+Strip = 2178
+n_FireChannel = 3
+timebin = 35 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 35 ADC = 8
+timebin = 34 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 34 ADC = 8
+timebin = 33 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 33 ADC = 8
+28th Event
+ n_TotalFireTimeBin = 0 timebin = 39 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 38 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 37 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 34 ADC = 11
+ n_TotalFireTimeBin = 4 timebin = 33 ADC = 10
+ n_TotalFireTimeBin = 5 timebin = 32 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 35 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 34 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 33 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+11       22       0       
+Strip = 3144
+n_FireChannel = 1
+timebin = 6 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 6 ADC = 8
+timebin = 5 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 5 ADC = 9
+timebin = 4 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 4 ADC = 8
+36
+25       50       3       
+Strip = 2113
+n_FireChannel = 2
+timebin = 21 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 21 ADC = 8
+timebin = 20 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 20 ADC = 8
+timebin = 19 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 19 ADC = 8
+36
+14       28       14      
+Strip = 2183
+n_FireChannel = 3
+timebin = 29 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 29 ADC = 8
+timebin = 28 ADC = 15
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 28 ADC = 15
+timebin = 27 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 27 ADC = 11
+29th Event
+ n_TotalFireTimeBin = 0 timebin = 6 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 5 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 4 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 21 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 20 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 19 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 29 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 28 ADC = 15
+ n_TotalFireTimeBin = 8 timebin = 27 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+23       47       4       
+Strip = 2069
+n_FireChannel = 1
+timebin = 53 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 53 ADC = 9
+timebin = 52 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 52 ADC = 8
+timebin = 51 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 51 ADC = 8
+36
+6        12       5       
+Strip = 3053
+n_FireChannel = 2
+timebin = 8 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 8 ADC = 8
+timebin = 7 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 7 ADC = 11
+timebin = 6 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 6 ADC = 8
+36
+14       28       15      
+Strip = 2184
+n_FireChannel = 3
+timebin = 30 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 30 ADC = 9
+timebin = 29 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 29 ADC = 9
+timebin = 28 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 28 ADC = 8
+30th Event
+ n_TotalFireTimeBin = 0 timebin = 53 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 52 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 51 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 8 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 7 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 6 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 30 ADC = 9
+ n_TotalFireTimeBin = 7 timebin = 29 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 28 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+7        15       2       
+Strip = 1067
+n_FireChannel = 1
+timebin = 33 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 33 ADC = 8
+timebin = 32 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 32 ADC = 8
+timebin = 31 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 31 ADC = 8
+36
+12       25       8       
+Strip = 2110
+n_FireChannel = 2
+timebin = 46 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 46 ADC = 9
+timebin = 45 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 45 ADC = 10
+timebin = 44 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 44 ADC = 9
+36
+12       25       5       
+Strip = 2100
+n_FireChannel = 3
+timebin = 49 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 49 ADC = 8
+timebin = 48 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 48 ADC = 9
+timebin = 47 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 47 ADC = 8
+36
+27       55       4       
+Strip = 2163
+n_FireChannel = 4
+timebin = 4 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 4 ADC = 9
+timebin = 3 ADC = 11
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 3 ADC = 11
+timebin = 2 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 2 ADC = 8
+36
+10       21       14      
+Strip = 2136
+n_FireChannel = 5
+timebin = 35 ADC = 10
+n_FireChannel = 5 n_FireTimeBin = 12 timebin = 35 ADC = 10
+timebin = 34 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 34 ADC = 9
+timebin = 33 ADC = 11
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 33 ADC = 11
+31th Event
+ n_TotalFireTimeBin = 0 timebin = 33 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 32 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 31 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 46 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 45 ADC = 10
+ n_TotalFireTimeBin = 5 timebin = 44 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 49 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 48 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 47 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 4 ADC = 9
+ n_TotalFireTimeBin = 10 timebin = 3 ADC = 11
+ n_TotalFireTimeBin = 11 timebin = 2 ADC = 8
+ n_TotalFireTimeBin = 12 timebin = 35 ADC = 10
+ n_TotalFireTimeBin = 13 timebin = 34 ADC = 9
+ n_TotalFireTimeBin = 14 timebin = 33 ADC = 11
+n_FireChannel = 5 n_FireTimeBin = 3
+32th Event
+n_FireChannel = 0 n_FireTimeBin = 3
+36
+25       51       9       
+Strip = 2109
+n_FireChannel = 1
+timebin = 6 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 6 ADC = 8
+timebin = 5 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 5 ADC = 10
+timebin = 4 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 4 ADC = 8
+36
+27       55       12      
+Strip = 2170
+n_FireChannel = 2
+timebin = 3 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 3 ADC = 10
+timebin = 2 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 2 ADC = 11
+timebin = 1 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 1 ADC = 9
+36
+10       20       14      
+Strip = 2151
+n_FireChannel = 3
+timebin = 3 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 3 ADC = 8
+timebin = 2 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 2 ADC = 8
+timebin = 1 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 1 ADC = 8
+33th Event
+ n_TotalFireTimeBin = 0 timebin = 6 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 5 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 4 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 3 ADC = 10
+ n_TotalFireTimeBin = 4 timebin = 2 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 1 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 3 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 2 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 1 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+6        13       12      
+Strip = 3044
+n_FireChannel = 1
+timebin = 49 ADC = 12
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 49 ADC = 12
+timebin = 48 ADC = 13
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 48 ADC = 13
+timebin = 47 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 47 ADC = 9
+36
+12       24       9       
+Strip = 2126
+n_FireChannel = 2
+timebin = 45 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 45 ADC = 8
+timebin = 44 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 44 ADC = 11
+timebin = 43 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 43 ADC = 8
+34th Event
+ n_TotalFireTimeBin = 0 timebin = 49 ADC = 12
+ n_TotalFireTimeBin = 1 timebin = 48 ADC = 13
+ n_TotalFireTimeBin = 2 timebin = 47 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 45 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 44 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 43 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+20       40       1       
+Strip = 3017
+n_FireChannel = 1
+timebin = 54 ADC = 12
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 54 ADC = 12
+timebin = 53 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 53 ADC = 10
+35th Event
+ n_TotalFireTimeBin = 0 timebin = 54 ADC = 12
+ n_TotalFireTimeBin = 1 timebin = 53 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 2
+36
+12       24       14      
+Strip = 2119
+n_FireChannel = 1
+timebin = 28 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 28 ADC = 8
+timebin = 27 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 27 ADC = 9
+timebin = 26 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 26 ADC = 9
+36th Event
+ n_TotalFireTimeBin = 0 timebin = 28 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 27 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 26 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 3
+36
+29       59       3       
+Strip = 2130
+n_FireChannel = 1
+timebin = 48 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 48 ADC = 8
+timebin = 47 ADC = 12
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 47 ADC = 12
+timebin = 46 ADC = 15
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 46 ADC = 15
+timebin = 45 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 3 timebin = 45 ADC = 11
+36
+29       59       0       
+Strip = 2127
+n_FireChannel = 2
+timebin = 45 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 45 ADC = 8
+timebin = 44 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 44 ADC = 9
+timebin = 43 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 43 ADC = 8
+36
+29       58       5       
+Strip = 2147
+n_FireChannel = 3
+timebin = 47 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 47 ADC = 8
+timebin = 46 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 46 ADC = 11
+timebin = 45 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 45 ADC = 9
+36
+4        8        7       
+Strip = 2023
+n_FireChannel = 4
+timebin = 18 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 18 ADC = 8
+timebin = 17 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 17 ADC = 10
+timebin = 16 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 16 ADC = 9
+36
+16       33       5       
+Strip = 1006
+n_FireChannel = 5
+timebin = 39 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 39 ADC = 8
+timebin = 38 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 38 ADC = 8
+timebin = 37 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 15 timebin = 37 ADC = 8
+37th Event
+ n_TotalFireTimeBin = 0 timebin = 48 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 47 ADC = 12
+ n_TotalFireTimeBin = 2 timebin = 46 ADC = 15
+ n_TotalFireTimeBin = 3 timebin = 45 ADC = 11
+ n_TotalFireTimeBin = 4 timebin = 45 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 44 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 43 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 47 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 46 ADC = 11
+ n_TotalFireTimeBin = 9 timebin = 45 ADC = 9
+ n_TotalFireTimeBin = 10 timebin = 18 ADC = 8
+ n_TotalFireTimeBin = 11 timebin = 17 ADC = 10
+ n_TotalFireTimeBin = 12 timebin = 16 ADC = 9
+ n_TotalFireTimeBin = 13 timebin = 39 ADC = 8
+ n_TotalFireTimeBin = 14 timebin = 38 ADC = 8
+ n_TotalFireTimeBin = 15 timebin = 37 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 3
+36
+27       54       14      
+Strip = 2183
+n_FireChannel = 1
+timebin = 17 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 17 ADC = 8
+timebin = 16 ADC = 12
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 16 ADC = 12
+timebin = 15 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 15 ADC = 8
+36
+10       20       13      
+Strip = 2154
+n_FireChannel = 2
+timebin = 33 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 33 ADC = 9
+timebin = 32 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 32 ADC = 11
+timebin = 31 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 31 ADC = 8
+38th Event
+ n_TotalFireTimeBin = 0 timebin = 17 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 16 ADC = 12
+ n_TotalFireTimeBin = 2 timebin = 15 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 33 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 32 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 31 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+25       51       11      
+Strip = 2107
+n_FireChannel = 1
+timebin = 46 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 46 ADC = 8
+timebin = 45 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 45 ADC = 10
+timebin = 44 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 44 ADC = 9
+36
+6        12       8       
+Strip = 3063
+n_FireChannel = 2
+timebin = 49 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 49 ADC = 8
+timebin = 48 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 48 ADC = 8
+timebin = 47 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 47 ADC = 8
+36
+26       52       9       
+Strip = 3158
+n_FireChannel = 3
+timebin = 0 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 0 ADC = 8
+36
+10       20       3       
+Strip = 2145
+n_FireChannel = 4
+timebin = 17 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 7 timebin = 17 ADC = 8
+timebin = 16 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 8 timebin = 16 ADC = 10
+timebin = 15 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 15 ADC = 8
+39th Event
+ n_TotalFireTimeBin = 0 timebin = 46 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 45 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 44 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 49 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 48 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 47 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 0 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 17 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 16 ADC = 10
+ n_TotalFireTimeBin = 9 timebin = 15 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+17       35       14      
+Strip = 2010
+n_FireChannel = 1
+timebin = 16 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 16 ADC = 9
+timebin = 15 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 15 ADC = 11
+timebin = 14 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 14 ADC = 8
+36
+29       59       0       
+Strip = 2127
+n_FireChannel = 2
+timebin = 13 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 13 ADC = 10
+timebin = 12 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 12 ADC = 8
+timebin = 11 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 11 ADC = 9
+timebin = 10 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 10 ADC = 10
+36
+4        8        9       
+Strip = 2032
+n_FireChannel = 3
+timebin = 6 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 6 ADC = 9
+timebin = 5 ADC = 12
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 5 ADC = 12
+timebin = 4 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 4 ADC = 8
+36
+12       25       14      
+Strip = 2104
+n_FireChannel = 4
+timebin = 16 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 16 ADC = 8
+timebin = 15 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 15 ADC = 9
+timebin = 14 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 14 ADC = 9
+36
+10       20       1       
+Strip = 2143
+n_FireChannel = 5
+timebin = 50 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 50 ADC = 9
+timebin = 49 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 49 ADC = 9
+timebin = 48 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 15 timebin = 48 ADC = 8
+40th Event
+ n_TotalFireTimeBin = 0 timebin = 16 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 15 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 14 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 13 ADC = 10
+ n_TotalFireTimeBin = 4 timebin = 12 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 11 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 10 ADC = 10
+ n_TotalFireTimeBin = 7 timebin = 6 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 5 ADC = 12
+ n_TotalFireTimeBin = 9 timebin = 4 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 16 ADC = 8
+ n_TotalFireTimeBin = 11 timebin = 15 ADC = 9
+ n_TotalFireTimeBin = 12 timebin = 14 ADC = 9
+ n_TotalFireTimeBin = 13 timebin = 50 ADC = 9
+ n_TotalFireTimeBin = 14 timebin = 49 ADC = 9
+ n_TotalFireTimeBin = 15 timebin = 48 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 3
+36
+7        14       7       
+Strip = 1087
+n_FireChannel = 1
+timebin = 5 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 5 ADC = 8
+timebin = 4 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 4 ADC = 11
+timebin = 3 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 3 ADC = 10
+36
+12       25       5       
+Strip = 2100
+n_FireChannel = 2
+timebin = 26 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 26 ADC = 8
+timebin = 25 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 25 ADC = 11
+timebin = 24 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 24 ADC = 10
+36
+2        5        5       
+Strip = 1038
+n_FireChannel = 3
+timebin = 6 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 6 ADC = 8
+timebin = 5 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 5 ADC = 8
+timebin = 4 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 4 ADC = 8
+36
+10       21       0       
+Strip = 2127
+n_FireChannel = 4
+timebin = 7 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 7 ADC = 8
+timebin = 6 ADC = 11
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 6 ADC = 11
+timebin = 5 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 5 ADC = 8
+41th Event
+ n_TotalFireTimeBin = 0 timebin = 5 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 4 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 3 ADC = 10
+ n_TotalFireTimeBin = 3 timebin = 26 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 25 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 24 ADC = 10
+ n_TotalFireTimeBin = 6 timebin = 6 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 5 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 4 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 7 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 6 ADC = 11
+ n_TotalFireTimeBin = 11 timebin = 5 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+17       34       4       
+Strip = 2022
+n_FireChannel = 1
+timebin = 23 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 23 ADC = 9
+timebin = 22 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 22 ADC = 11
+timebin = 21 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 21 ADC = 9
+36
+2        4        15      
+Strip = 1058
+n_FireChannel = 2
+timebin = 41 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 41 ADC = 8
+timebin = 40 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 40 ADC = 8
+timebin = 39 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 39 ADC = 8
+36
+10       21       13      
+Strip = 2137
+n_FireChannel = 3
+timebin = 41 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 41 ADC = 11
+timebin = 40 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 40 ADC = 8
+timebin = 39 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 39 ADC = 8
+timebin = 38 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 38 ADC = 8
+36
+10       20       9       
+Strip = 2158
+n_FireChannel = 4
+timebin = 38 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 38 ADC = 8
+timebin = 37 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 37 ADC = 10
+timebin = 36 ADC = 11
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 36 ADC = 11
+42th Event
+ n_TotalFireTimeBin = 0 timebin = 23 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 22 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 21 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 41 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 40 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 39 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 41 ADC = 11
+ n_TotalFireTimeBin = 7 timebin = 40 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 39 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 38 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 38 ADC = 8
+ n_TotalFireTimeBin = 11 timebin = 37 ADC = 10
+ n_TotalFireTimeBin = 12 timebin = 36 ADC = 11
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+29       59       15      
+Strip = 2135
+n_FireChannel = 1
+timebin = 22 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 22 ADC = 8
+timebin = 21 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 21 ADC = 11
+timebin = 20 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 20 ADC = 10
+36
+14       29       5       
+Strip = 2164
+n_FireChannel = 2
+timebin = 30 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 30 ADC = 8
+timebin = 29 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 29 ADC = 9
+timebin = 28 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 28 ADC = 9
+36
+12       25       5       
+Strip = 2100
+n_FireChannel = 3
+timebin = 22 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 22 ADC = 9
+timebin = 21 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 21 ADC = 8
+timebin = 20 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 20 ADC = 8
+36
+27       55       1       
+Strip = 2160
+n_FireChannel = 4
+timebin = 16 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 16 ADC = 8
+timebin = 15 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 15 ADC = 9
+timebin = 14 ADC = 13
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 14 ADC = 13
+timebin = 13 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 13 ADC = 8
+36
+27       54       12      
+Strip = 2185
+n_FireChannel = 5
+timebin = 17 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 17 ADC = 8
+timebin = 16 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 16 ADC = 8
+timebin = 15 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 15 timebin = 15 ADC = 8
+36
+2        5        2       
+Strip = 1035
+n_FireChannel = 6
+timebin = 5 ADC = 9
+n_FireChannel = 6 n_FireTimeBin = 16 timebin = 5 ADC = 9
+timebin = 4 ADC = 9
+n_FireChannel = 6 n_FireTimeBin = 17 timebin = 4 ADC = 9
+timebin = 3 ADC = 9
+n_FireChannel = 6 n_FireTimeBin = 18 timebin = 3 ADC = 9
+43th Event
+ n_TotalFireTimeBin = 0 timebin = 22 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 21 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 20 ADC = 10
+ n_TotalFireTimeBin = 3 timebin = 30 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 29 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 28 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 22 ADC = 9
+ n_TotalFireTimeBin = 7 timebin = 21 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 20 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 16 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 15 ADC = 9
+ n_TotalFireTimeBin = 11 timebin = 14 ADC = 13
+ n_TotalFireTimeBin = 12 timebin = 13 ADC = 8
+ n_TotalFireTimeBin = 13 timebin = 17 ADC = 8
+ n_TotalFireTimeBin = 14 timebin = 16 ADC = 8
+ n_TotalFireTimeBin = 15 timebin = 15 ADC = 8
+ n_TotalFireTimeBin = 16 timebin = 5 ADC = 9
+ n_TotalFireTimeBin = 17 timebin = 4 ADC = 9
+ n_TotalFireTimeBin = 18 timebin = 3 ADC = 9
+n_FireChannel = 6 n_FireTimeBin = 3
+36
+22       45       11      
+Strip = 1077
+n_FireChannel = 1
+timebin = 33 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 33 ADC = 8
+timebin = 32 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 32 ADC = 10
+timebin = 31 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 31 ADC = 8
+36
+22       45       0       
+Strip = 1065
+n_FireChannel = 2
+timebin = 12 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 12 ADC = 8
+timebin = 11 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 11 ADC = 11
+timebin = 10 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 10 ADC = 10
+36
+26       53       14      
+Strip = 3136
+n_FireChannel = 3
+timebin = 23 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 23 ADC = 8
+timebin = 22 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 22 ADC = 9
+timebin = 21 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 21 ADC = 8
+36
+2        4        9       
+Strip = 1064
+n_FireChannel = 4
+timebin = 6 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 6 ADC = 8
+timebin = 5 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 5 ADC = 9
+timebin = 4 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 4 ADC = 8
+36
+24       48       14      
+Strip = 3089
+n_FireChannel = 5
+timebin = 29 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 12 timebin = 29 ADC = 8
+timebin = 28 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 28 ADC = 8
+timebin = 27 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 27 ADC = 9
+timebin = 26 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 15 timebin = 26 ADC = 9
+44th Event
+ n_TotalFireTimeBin = 0 timebin = 33 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 32 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 31 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 12 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 11 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 10 ADC = 10
+ n_TotalFireTimeBin = 6 timebin = 23 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 22 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 21 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 6 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 5 ADC = 9
+ n_TotalFireTimeBin = 11 timebin = 4 ADC = 8
+ n_TotalFireTimeBin = 12 timebin = 29 ADC = 8
+ n_TotalFireTimeBin = 13 timebin = 28 ADC = 8
+ n_TotalFireTimeBin = 14 timebin = 27 ADC = 9
+ n_TotalFireTimeBin = 15 timebin = 26 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 4
+36
+15       31       11      
+Strip = 3171
+n_FireChannel = 1
+timebin = 17 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 17 ADC = 8
+timebin = 16 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 16 ADC = 10
+timebin = 15 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 15 ADC = 9
+36
+15       31       2       
+Strip = 3161
+n_FireChannel = 2
+timebin = 32 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 32 ADC = 8
+timebin = 31 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 31 ADC = 9
+timebin = 30 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 30 ADC = 9
+36
+14       29       10      
+Strip = 2172
+n_FireChannel = 3
+timebin = 54 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 54 ADC = 8
+36
+24       49       15      
+Strip = 3073
+n_FireChannel = 4
+timebin = 53 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 7 timebin = 53 ADC = 8
+timebin = 52 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 8 timebin = 52 ADC = 9
+timebin = 51 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 51 ADC = 9
+45th Event
+ n_TotalFireTimeBin = 0 timebin = 17 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 16 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 15 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 32 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 31 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 30 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 54 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 53 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 52 ADC = 9
+ n_TotalFireTimeBin = 9 timebin = 51 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+2        5        12      
+Strip = 1044
+n_FireChannel = 1
+timebin = 20 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 20 ADC = 8
+timebin = 19 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 19 ADC = 8
+timebin = 18 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 18 ADC = 8
+36
+2        5        10      
+Strip = 1046
+n_FireChannel = 2
+timebin = 17 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 17 ADC = 9
+timebin = 16 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 16 ADC = 9
+timebin = 15 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 15 ADC = 9
+36
+10       20       13      
+Strip = 2154
+n_FireChannel = 3
+timebin = 34 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 34 ADC = 8
+timebin = 33 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 33 ADC = 9
+timebin = 32 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 32 ADC = 9
+46th Event
+ n_TotalFireTimeBin = 0 timebin = 20 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 19 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 18 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 17 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 16 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 15 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 34 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 33 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 32 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+19       38       7       
+Strip = 3055
+n_FireChannel = 1
+timebin = 33 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 33 ADC = 8
+timebin = 32 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 32 ADC = 10
+timebin = 31 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 31 ADC = 9
+47th Event
+ n_TotalFireTimeBin = 0 timebin = 33 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 32 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 31 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 3
+36
+10       21       8       
+Strip = 2142
+n_FireChannel = 1
+timebin = 4 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 4 ADC = 8
+timebin = 3 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 3 ADC = 9
+timebin = 2 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 2 ADC = 8
+48th Event
+ n_TotalFireTimeBin = 0 timebin = 4 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 3 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 2 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 3
+36
+11       22       10      
+Strip = 3155
+n_FireChannel = 1
+timebin = 7 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 7 ADC = 10
+timebin = 6 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 6 ADC = 11
+timebin = 5 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 5 ADC = 9
+36
+25       51       12      
+Strip = 2106
+n_FireChannel = 2
+timebin = 48 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 48 ADC = 8
+timebin = 47 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 47 ADC = 8
+timebin = 46 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 46 ADC = 8
+36
+14       29       7       
+Strip = 2166
+n_FireChannel = 3
+timebin = 11 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 11 ADC = 8
+timebin = 10 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 10 ADC = 11
+timebin = 9 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 9 ADC = 8
+49th Event
+ n_TotalFireTimeBin = 0 timebin = 7 ADC = 10
+ n_TotalFireTimeBin = 1 timebin = 6 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 5 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 48 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 47 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 46 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 11 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 10 ADC = 11
+ n_TotalFireTimeBin = 8 timebin = 9 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+29       59       0       
+Strip = 2127
+n_FireChannel = 1
+timebin = 7 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 7 ADC = 10
+timebin = 6 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 6 ADC = 8
+timebin = 5 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 5 ADC = 8
+36
+6        12       12      
+Strip = 3059
+n_FireChannel = 2
+timebin = 34 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 34 ADC = 8
+timebin = 33 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 33 ADC = 11
+timebin = 32 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 32 ADC = 8
+36
+12       25       1       
+Strip = 2096
+n_FireChannel = 3
+timebin = 41 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 41 ADC = 8
+timebin = 40 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 40 ADC = 9
+timebin = 39 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 39 ADC = 8
+36
+5        10       4       
+Strip = 3022
+n_FireChannel = 4
+timebin = 7 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 7 ADC = 8
+timebin = 6 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 6 ADC = 9
+timebin = 5 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 5 ADC = 8
+50th Event
+ n_TotalFireTimeBin = 0 timebin = 7 ADC = 10
+ n_TotalFireTimeBin = 1 timebin = 6 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 5 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 34 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 33 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 32 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 41 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 40 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 39 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 7 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 6 ADC = 9
+ n_TotalFireTimeBin = 11 timebin = 5 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+13       26       5       
+Strip = 3115
+n_FireChannel = 1
+timebin = 6 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 6 ADC = 9
+timebin = 5 ADC = 12
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 5 ADC = 12
+timebin = 4 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 4 ADC = 9
+36
+25       50       6       
+Strip = 2118
+n_FireChannel = 2
+timebin = 39 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 39 ADC = 9
+timebin = 38 ADC = 12
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 38 ADC = 12
+timebin = 37 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 37 ADC = 8
+36
+9        19       5       
+Strip = 3070
+n_FireChannel = 3
+timebin = 46 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 46 ADC = 9
+timebin = 45 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 45 ADC = 10
+timebin = 44 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 44 ADC = 8
+51th Event
+ n_TotalFireTimeBin = 0 timebin = 6 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 5 ADC = 12
+ n_TotalFireTimeBin = 2 timebin = 4 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 39 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 38 ADC = 12
+ n_TotalFireTimeBin = 5 timebin = 37 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 46 ADC = 9
+ n_TotalFireTimeBin = 7 timebin = 45 ADC = 10
+ n_TotalFireTimeBin = 8 timebin = 44 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+10       21       13      
+Strip = 2137
+n_FireChannel = 1
+timebin = 12 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 12 ADC = 9
+timebin = 11 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 11 ADC = 9
+timebin = 10 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 10 ADC = 8
+52th Event
+ n_TotalFireTimeBin = 0 timebin = 12 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 11 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 10 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 3
+36
+13       27       2       
+Strip = 3097
+n_FireChannel = 1
+timebin = 36 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 36 ADC = 9
+timebin = 35 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 35 ADC = 10
+timebin = 34 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 34 ADC = 9
+36
+27       54       5       
+Strip = 2179
+n_FireChannel = 2
+timebin = 44 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 44 ADC = 9
+timebin = 43 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 43 ADC = 10
+timebin = 42 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 42 ADC = 8
+53th Event
+ n_TotalFireTimeBin = 0 timebin = 36 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 35 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 34 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 44 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 43 ADC = 10
+ n_TotalFireTimeBin = 5 timebin = 42 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+21       42       9       
+Strip = 1064
+n_FireChannel = 1
+timebin = 18 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 18 ADC = 8
+timebin = 17 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 17 ADC = 10
+timebin = 16 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 16 ADC = 11
+36
+7        14       8       
+Strip = 1095
+n_FireChannel = 2
+timebin = 30 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 30 ADC = 8
+timebin = 29 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 29 ADC = 9
+timebin = 28 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 28 ADC = 8
+54th Event
+ n_TotalFireTimeBin = 0 timebin = 18 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 17 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 16 ADC = 11
+ n_TotalFireTimeBin = 3 timebin = 30 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 29 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 28 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+28       57       6       
+Strip = 3101
+n_FireChannel = 1
+timebin = 17 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 17 ADC = 8
+timebin = 16 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 16 ADC = 8
+timebin = 15 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 15 ADC = 10
+36
+10       21       13      
+Strip = 2137
+n_FireChannel = 2
+timebin = 15 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 15 ADC = 9
+timebin = 14 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 14 ADC = 10
+timebin = 13 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 13 ADC = 9
+55th Event
+ n_TotalFireTimeBin = 0 timebin = 17 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 16 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 15 ADC = 10
+ n_TotalFireTimeBin = 3 timebin = 15 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 14 ADC = 10
+ n_TotalFireTimeBin = 5 timebin = 13 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+3        7        8       
+Strip = 2048
+n_FireChannel = 1
+timebin = 16 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 16 ADC = 8
+timebin = 15 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 15 ADC = 10
+timebin = 14 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 14 ADC = 8
+36
+14       29       4       
+Strip = 2163
+n_FireChannel = 2
+timebin = 29 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 29 ADC = 8
+timebin = 28 ADC = 12
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 28 ADC = 12
+timebin = 27 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 27 ADC = 11
+timebin = 26 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 26 ADC = 8
+36
+12       25       15      
+Strip = 2103
+n_FireChannel = 3
+timebin = 35 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 35 ADC = 8
+timebin = 34 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 34 ADC = 8
+timebin = 33 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 33 ADC = 8
+36
+12       24       0       
+Strip = 2112
+n_FireChannel = 4
+timebin = 50 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 50 ADC = 8
+timebin = 49 ADC = 11
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 49 ADC = 11
+timebin = 48 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 48 ADC = 8
+36
+2        4        0       
+Strip = 1050
+n_FireChannel = 5
+timebin = 43 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 43 ADC = 8
+timebin = 42 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 42 ADC = 9
+timebin = 41 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 15 timebin = 41 ADC = 8
+36
+10       21       7       
+Strip = 2134
+n_FireChannel = 6
+timebin = 25 ADC = 9
+n_FireChannel = 6 n_FireTimeBin = 16 timebin = 25 ADC = 9
+timebin = 24 ADC = 10
+n_FireChannel = 6 n_FireTimeBin = 17 timebin = 24 ADC = 10
+timebin = 23 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 18 timebin = 23 ADC = 8
+56th Event
+ n_TotalFireTimeBin = 0 timebin = 16 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 15 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 14 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 29 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 28 ADC = 12
+ n_TotalFireTimeBin = 5 timebin = 27 ADC = 11
+ n_TotalFireTimeBin = 6 timebin = 26 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 35 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 34 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 33 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 50 ADC = 8
+ n_TotalFireTimeBin = 11 timebin = 49 ADC = 11
+ n_TotalFireTimeBin = 12 timebin = 48 ADC = 8
+ n_TotalFireTimeBin = 13 timebin = 43 ADC = 8
+ n_TotalFireTimeBin = 14 timebin = 42 ADC = 9
+ n_TotalFireTimeBin = 15 timebin = 41 ADC = 8
+ n_TotalFireTimeBin = 16 timebin = 25 ADC = 9
+ n_TotalFireTimeBin = 17 timebin = 24 ADC = 10
+ n_TotalFireTimeBin = 18 timebin = 23 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 3
+36
+29       59       0       
+Strip = 2127
+n_FireChannel = 1
+timebin = 32 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 32 ADC = 9
+timebin = 31 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 31 ADC = 9
+timebin = 30 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 30 ADC = 8
+36
+7        14       15      
+Strip = 1090
+n_FireChannel = 2
+timebin = 2 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 2 ADC = 8
+timebin = 1 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 1 ADC = 11
+timebin = 0 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 0 ADC = 8
+36
+12       25       13      
+Strip = 2105
+n_FireChannel = 3
+timebin = 43 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 43 ADC = 10
+timebin = 42 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 42 ADC = 11
+timebin = 41 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 41 ADC = 10
+36
+12       24       2       
+Strip = 2114
+n_FireChannel = 4
+timebin = 17 ADC = 12
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 17 ADC = 12
+timebin = 16 ADC = 11
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 16 ADC = 11
+timebin = 15 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 15 ADC = 9
+57th Event
+ n_TotalFireTimeBin = 0 timebin = 32 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 31 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 30 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 2 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 1 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 0 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 43 ADC = 10
+ n_TotalFireTimeBin = 7 timebin = 42 ADC = 11
+ n_TotalFireTimeBin = 8 timebin = 41 ADC = 10
+ n_TotalFireTimeBin = 9 timebin = 17 ADC = 12
+ n_TotalFireTimeBin = 10 timebin = 16 ADC = 11
+ n_TotalFireTimeBin = 11 timebin = 15 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+26       52       8       
+Strip = 3157
+n_FireChannel = 1
+timebin = 50 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 50 ADC = 8
+timebin = 49 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 49 ADC = 9
+timebin = 48 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 48 ADC = 8
+36
+10       20       7       
+Strip = 2149
+n_FireChannel = 2
+timebin = 50 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 50 ADC = 8
+timebin = 49 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 49 ADC = 8
+timebin = 48 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 48 ADC = 8
+timebin = 47 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 47 ADC = 9
+58th Event
+ n_TotalFireTimeBin = 0 timebin = 50 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 49 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 48 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 50 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 49 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 48 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 47 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4
+36
+25       51       2       
+Strip = 2097
+n_FireChannel = 1
+timebin = 17 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 17 ADC = 8
+timebin = 16 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 16 ADC = 10
+timebin = 15 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 15 ADC = 9
+36
+14       28       10      
+Strip = 2187
+n_FireChannel = 2
+timebin = 35 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 35 ADC = 8
+timebin = 34 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 34 ADC = 10
+timebin = 33 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 33 ADC = 9
+timebin = 32 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 32 ADC = 9
+36
+27       54       3       
+Strip = 2177
+n_FireChannel = 3
+timebin = 23 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 23 ADC = 8
+timebin = 22 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 22 ADC = 8
+timebin = 21 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 21 ADC = 8
+timebin = 20 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 10 timebin = 20 ADC = 9
+59th Event
+ n_TotalFireTimeBin = 0 timebin = 17 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 16 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 15 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 35 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 34 ADC = 10
+ n_TotalFireTimeBin = 5 timebin = 33 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 32 ADC = 9
+ n_TotalFireTimeBin = 7 timebin = 23 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 22 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 21 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 20 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 4
+36
+25       50       0       
+Strip = 2112
+n_FireChannel = 1
+timebin = 11 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 11 ADC = 8
+timebin = 10 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 10 ADC = 10
+timebin = 9 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 9 ADC = 8
+36
+6        12       10      
+Strip = 3061
+n_FireChannel = 2
+timebin = 26 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 26 ADC = 8
+timebin = 25 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 25 ADC = 9
+timebin = 24 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 24 ADC = 9
+36
+10       21       13      
+Strip = 2137
+n_FireChannel = 3
+timebin = 53 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 53 ADC = 8
+timebin = 52 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 52 ADC = 9
+timebin = 51 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 51 ADC = 10
+60th Event
+ n_TotalFireTimeBin = 0 timebin = 11 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 10 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 9 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 26 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 25 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 24 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 53 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 52 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 51 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+28       57       10      
+Strip = 3108
+n_FireChannel = 1
+timebin = 43 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 43 ADC = 8
+timebin = 42 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 42 ADC = 11
+timebin = 41 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 41 ADC = 8
+36
+11       22       8       
+Strip = 3157
+n_FireChannel = 2
+timebin = 27 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 27 ADC = 8
+timebin = 26 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 26 ADC = 8
+timebin = 25 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 25 ADC = 8
+36
+19       38       2       
+Strip = 3052
+n_FireChannel = 3
+timebin = 13 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 13 ADC = 8
+timebin = 12 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 12 ADC = 8
+timebin = 11 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 11 ADC = 8
+36
+12       25       2       
+Strip = 2097
+n_FireChannel = 4
+timebin = 35 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 35 ADC = 9
+timebin = 34 ADC = 13
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 34 ADC = 13
+timebin = 33 ADC = 11
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 33 ADC = 11
+36
+27       55       7       
+Strip = 2166
+n_FireChannel = 5
+timebin = 21 ADC = 10
+n_FireChannel = 5 n_FireTimeBin = 12 timebin = 21 ADC = 10
+timebin = 20 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 20 ADC = 9
+timebin = 19 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 19 ADC = 9
+61th Event
+ n_TotalFireTimeBin = 0 timebin = 43 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 42 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 41 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 27 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 26 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 25 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 13 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 12 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 11 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 35 ADC = 9
+ n_TotalFireTimeBin = 10 timebin = 34 ADC = 13
+ n_TotalFireTimeBin = 11 timebin = 33 ADC = 11
+ n_TotalFireTimeBin = 12 timebin = 21 ADC = 10
+ n_TotalFireTimeBin = 13 timebin = 20 ADC = 9
+ n_TotalFireTimeBin = 14 timebin = 19 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 3
+36
+14       29       9       
+Strip = 2173
+n_FireChannel = 1
+timebin = 1 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 1 ADC = 9
+timebin = 0 ADC = 12
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 0 ADC = 12
+36
+7        14       4       
+Strip = 1086
+n_FireChannel = 2
+timebin = 24 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 2 timebin = 24 ADC = 8
+timebin = 23 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 23 ADC = 9
+timebin = 22 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 22 ADC = 8
+62th Event
+ n_TotalFireTimeBin = 0 timebin = 1 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 0 ADC = 12
+ n_TotalFireTimeBin = 2 timebin = 24 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 23 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 22 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3
+63th Event
+n_FireChannel = 0 n_FireTimeBin = 3
+36
+27       55       0       
+Strip = 2159
+n_FireChannel = 1
+timebin = 29 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 29 ADC = 8
+timebin = 28 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 28 ADC = 8
+timebin = 27 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 27 ADC = 8
+36
+27       54       2       
+Strip = 2178
+n_FireChannel = 2
+timebin = 54 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 54 ADC = 9
+timebin = 53 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 53 ADC = 10
+timebin = 52 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 52 ADC = 8
+64th Event
+ n_TotalFireTimeBin = 0 timebin = 29 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 28 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 27 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 54 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 53 ADC = 10
+ n_TotalFireTimeBin = 5 timebin = 52 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+9        19       7       
+Strip = 3072
+n_FireChannel = 1
+timebin = 26 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 26 ADC = 8
+timebin = 25 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 25 ADC = 11
+timebin = 24 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 24 ADC = 8
+36
+2        4        13      
+Strip = 1060
+n_FireChannel = 2
+timebin = 43 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 43 ADC = 9
+timebin = 42 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 42 ADC = 10
+timebin = 41 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 41 ADC = 8
+36
+10       20       11      
+Strip = 2156
+n_FireChannel = 3
+timebin = 9 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 9 ADC = 8
+timebin = 8 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 8 ADC = 10
+timebin = 7 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 7 ADC = 8
+65th Event
+ n_TotalFireTimeBin = 0 timebin = 26 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 25 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 24 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 43 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 42 ADC = 10
+ n_TotalFireTimeBin = 5 timebin = 41 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 9 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 8 ADC = 10
+ n_TotalFireTimeBin = 8 timebin = 7 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+18       37       5       
+Strip = 2038
+n_FireChannel = 1
+timebin = 54 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 54 ADC = 8
+timebin = 53 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 53 ADC = 11
+timebin = 52 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 52 ADC = 8
+66th Event
+ n_TotalFireTimeBin = 0 timebin = 54 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 53 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 52 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 3
+36
+15       30       1       
+Strip = 3175
+n_FireChannel = 1
+timebin = 31 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 31 ADC = 9
+timebin = 30 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 30 ADC = 11
+timebin = 29 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 29 ADC = 8
+36
+14       29       6       
+Strip = 2165
+n_FireChannel = 2
+timebin = 10 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 10 ADC = 8
+timebin = 9 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 9 ADC = 10
+timebin = 8 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 8 ADC = 8
+67th Event
+ n_TotalFireTimeBin = 0 timebin = 31 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 30 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 29 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 10 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 9 ADC = 10
+ n_TotalFireTimeBin = 5 timebin = 8 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+23       47       0       
+Strip = 2065
+n_FireChannel = 1
+timebin = 28 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 28 ADC = 8
+timebin = 27 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 27 ADC = 10
+timebin = 26 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 26 ADC = 9
+36
+21       42       8       
+Strip = 1063
+n_FireChannel = 2
+timebin = 19 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 19 ADC = 8
+timebin = 18 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 18 ADC = 9
+timebin = 17 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 17 ADC = 10
+36
+25       51       15      
+Strip = 2103
+n_FireChannel = 3
+timebin = 6 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 6 ADC = 8
+timebin = 5 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 5 ADC = 9
+timebin = 4 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 4 ADC = 9
+36
+12       25       0       
+Strip = 2095
+n_FireChannel = 4
+timebin = 30 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 30 ADC = 8
+timebin = 29 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 29 ADC = 8
+timebin = 28 ADC = 11
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 28 ADC = 11
+timebin = 27 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 27 ADC = 8
+36
+5        10       7       
+Strip = 3023
+n_FireChannel = 5
+timebin = 42 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 42 ADC = 8
+timebin = 41 ADC = 11
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 41 ADC = 11
+timebin = 40 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 15 timebin = 40 ADC = 8
+68th Event
+ n_TotalFireTimeBin = 0 timebin = 28 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 27 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 26 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 19 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 18 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 17 ADC = 10
+ n_TotalFireTimeBin = 6 timebin = 6 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 5 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 4 ADC = 9
+ n_TotalFireTimeBin = 9 timebin = 30 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 29 ADC = 8
+ n_TotalFireTimeBin = 11 timebin = 28 ADC = 11
+ n_TotalFireTimeBin = 12 timebin = 27 ADC = 8
+ n_TotalFireTimeBin = 13 timebin = 42 ADC = 8
+ n_TotalFireTimeBin = 14 timebin = 41 ADC = 11
+ n_TotalFireTimeBin = 15 timebin = 40 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 3
+36
+19       38       1       
+Strip = 3049
+n_FireChannel = 1
+timebin = 20 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 20 ADC = 9
+timebin = 19 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 19 ADC = 9
+timebin = 18 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 18 ADC = 8
+69th Event
+ n_TotalFireTimeBin = 0 timebin = 20 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 19 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 18 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 3
+36
+6        12       5       
+Strip = 3053
+n_FireChannel = 1
+timebin = 39 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 39 ADC = 10
+timebin = 38 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 38 ADC = 11
+timebin = 37 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 37 ADC = 9
+36
+2        4        9       
+Strip = 1064
+n_FireChannel = 2
+timebin = 50 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 50 ADC = 9
+timebin = 49 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 49 ADC = 11
+timebin = 48 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 48 ADC = 10
+36
+2        4        3       
+Strip = 1051
+n_FireChannel = 3
+timebin = 44 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 44 ADC = 8
+timebin = 43 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 43 ADC = 10
+timebin = 42 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 42 ADC = 8
+70th Event
+ n_TotalFireTimeBin = 0 timebin = 39 ADC = 10
+ n_TotalFireTimeBin = 1 timebin = 38 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 37 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 50 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 49 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 48 ADC = 10
+ n_TotalFireTimeBin = 6 timebin = 44 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 43 ADC = 10
+ n_TotalFireTimeBin = 8 timebin = 42 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+17       35       9       
+Strip = 2015
+n_FireChannel = 1
+timebin = 4 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 4 ADC = 8
+timebin = 3 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 3 ADC = 8
+timebin = 2 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 2 ADC = 8
+36
+4        9        15      
+Strip = 2009
+n_FireChannel = 2
+timebin = 24 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 24 ADC = 10
+timebin = 23 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 23 ADC = 11
+timebin = 22 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 22 ADC = 8
+36
+25       50       3       
+Strip = 2113
+n_FireChannel = 3
+timebin = 27 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 27 ADC = 9
+timebin = 26 ADC = 14
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 26 ADC = 14
+timebin = 25 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 25 ADC = 8
+36
+12       24       13      
+Strip = 2122
+n_FireChannel = 4
+timebin = 2 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 2 ADC = 9
+timebin = 1 ADC = 11
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 1 ADC = 11
+timebin = 0 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 0 ADC = 10
+71th Event
+ n_TotalFireTimeBin = 0 timebin = 4 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 3 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 2 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 24 ADC = 10
+ n_TotalFireTimeBin = 4 timebin = 23 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 22 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 27 ADC = 9
+ n_TotalFireTimeBin = 7 timebin = 26 ADC = 14
+ n_TotalFireTimeBin = 8 timebin = 25 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 2 ADC = 9
+ n_TotalFireTimeBin = 10 timebin = 1 ADC = 11
+ n_TotalFireTimeBin = 11 timebin = 0 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+21       43       8       
+Strip = 1048
+n_FireChannel = 1
+timebin = 42 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 42 ADC = 8
+timebin = 41 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 41 ADC = 9
+timebin = 40 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 40 ADC = 8
+36
+6        12       13      
+Strip = 3060
+n_FireChannel = 2
+timebin = 54 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 54 ADC = 9
+timebin = 53 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 53 ADC = 8
+72th Event
+ n_TotalFireTimeBin = 0 timebin = 42 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 41 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 40 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 54 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 53 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 2
+36
+14       29       11      
+Strip = 2171
+n_FireChannel = 1
+timebin = 54 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 54 ADC = 8
+timebin = 53 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 53 ADC = 8
+36
+14       28       8       
+Strip = 2189
+n_FireChannel = 2
+timebin = 37 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 2 timebin = 37 ADC = 8
+timebin = 36 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 36 ADC = 8
+timebin = 35 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 35 ADC = 8
+36
+27       54       0       
+Strip = 2176
+n_FireChannel = 3
+timebin = 48 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 5 timebin = 48 ADC = 9
+timebin = 47 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 47 ADC = 9
+timebin = 46 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 46 ADC = 9
+36
+10       21       4       
+Strip = 2131
+n_FireChannel = 4
+timebin = 2 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 8 timebin = 2 ADC = 8
+timebin = 1 ADC = 13
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 1 ADC = 13
+timebin = 0 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 0 ADC = 9
+73th Event
+ n_TotalFireTimeBin = 0 timebin = 54 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 53 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 37 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 36 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 35 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 48 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 47 ADC = 9
+ n_TotalFireTimeBin = 7 timebin = 46 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 2 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 1 ADC = 13
+ n_TotalFireTimeBin = 10 timebin = 0 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+14       29       12      
+Strip = 2170
+n_FireChannel = 1
+timebin = 34 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 34 ADC = 10
+timebin = 33 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 33 ADC = 8
+timebin = 32 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 32 ADC = 8
+36
+14       29       3       
+Strip = 2162
+n_FireChannel = 2
+timebin = 34 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 34 ADC = 8
+timebin = 33 ADC = 12
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 33 ADC = 12
+timebin = 32 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 32 ADC = 9
+36
+14       28       14      
+Strip = 2183
+n_FireChannel = 3
+timebin = 33 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 33 ADC = 10
+timebin = 32 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 32 ADC = 11
+timebin = 31 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 31 ADC = 9
+36
+7        14       11      
+Strip = 1094
+n_FireChannel = 4
+timebin = 44 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 44 ADC = 8
+timebin = 43 ADC = 11
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 43 ADC = 11
+timebin = 42 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 42 ADC = 8
+36
+26       52       12      
+Strip = 3153
+n_FireChannel = 5
+timebin = 11 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 12 timebin = 11 ADC = 8
+timebin = 10 ADC = 12
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 10 ADC = 12
+timebin = 9 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 14 timebin = 9 ADC = 8
+74th Event
+ n_TotalFireTimeBin = 0 timebin = 34 ADC = 10
+ n_TotalFireTimeBin = 1 timebin = 33 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 32 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 34 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 33 ADC = 12
+ n_TotalFireTimeBin = 5 timebin = 32 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 33 ADC = 10
+ n_TotalFireTimeBin = 7 timebin = 32 ADC = 11
+ n_TotalFireTimeBin = 8 timebin = 31 ADC = 9
+ n_TotalFireTimeBin = 9 timebin = 44 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 43 ADC = 11
+ n_TotalFireTimeBin = 11 timebin = 42 ADC = 8
+ n_TotalFireTimeBin = 12 timebin = 11 ADC = 8
+ n_TotalFireTimeBin = 13 timebin = 10 ADC = 12
+ n_TotalFireTimeBin = 14 timebin = 9 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 3
+36
+12       25       5       
+Strip = 2100
+n_FireChannel = 1
+timebin = 1 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 1 ADC = 8
+timebin = 0 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 0 ADC = 10
+36
+26       53       14      
+Strip = 3136
+n_FireChannel = 2
+timebin = 29 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 2 timebin = 29 ADC = 10
+timebin = 28 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 28 ADC = 9
+timebin = 27 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 27 ADC = 9
+36
+27       55       2       
+Strip = 2161
+n_FireChannel = 3
+timebin = 29 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 5 timebin = 29 ADC = 8
+timebin = 28 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 28 ADC = 8
+timebin = 27 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 27 ADC = 8
+36
+2        4        3       
+Strip = 1051
+n_FireChannel = 4
+timebin = 46 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 8 timebin = 46 ADC = 9
+timebin = 45 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 45 ADC = 10
+timebin = 44 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 44 ADC = 8
+36
+10       21       12      
+Strip = 2138
+n_FireChannel = 5
+timebin = 6 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 11 timebin = 6 ADC = 8
+timebin = 5 ADC = 9
+n_FireChannel = 5 n_FireTimeBin = 12 timebin = 5 ADC = 9
+timebin = 4 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 4 ADC = 8
+75th Event
+ n_TotalFireTimeBin = 0 timebin = 1 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 0 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 29 ADC = 10
+ n_TotalFireTimeBin = 3 timebin = 28 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 27 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 29 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 28 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 27 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 46 ADC = 9
+ n_TotalFireTimeBin = 9 timebin = 45 ADC = 10
+ n_TotalFireTimeBin = 10 timebin = 44 ADC = 8
+ n_TotalFireTimeBin = 11 timebin = 6 ADC = 8
+ n_TotalFireTimeBin = 12 timebin = 5 ADC = 9
+ n_TotalFireTimeBin = 13 timebin = 4 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 3
+36
+12       24       11      
+Strip = 2124
+n_FireChannel = 1
+timebin = 16 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 16 ADC = 11
+timebin = 15 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 15 ADC = 10
+timebin = 14 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 14 ADC = 9
+76th Event
+ n_TotalFireTimeBin = 0 timebin = 16 ADC = 11
+ n_TotalFireTimeBin = 1 timebin = 15 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 14 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 3
+36
+12       24       6       
+Strip = 2118
+n_FireChannel = 1
+timebin = 0 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 0 ADC = 8
+77th Event
+ n_TotalFireTimeBin = 0 timebin = 0 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1
+36
+29       58       12      
+Strip = 2153
+n_FireChannel = 1
+timebin = 44 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 44 ADC = 9
+timebin = 43 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 43 ADC = 10
+timebin = 42 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 42 ADC = 9
+36
+2        4        7       
+Strip = 1055
+n_FireChannel = 2
+timebin = 8 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 8 ADC = 8
+timebin = 7 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 7 ADC = 11
+timebin = 6 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 6 ADC = 8
+36
+10       21       3       
+Strip = 2130
+n_FireChannel = 3
+timebin = 15 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 15 ADC = 10
+timebin = 14 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 14 ADC = 10
+timebin = 13 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 13 ADC = 8
+78th Event
+ n_TotalFireTimeBin = 0 timebin = 44 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 43 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 42 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 8 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 7 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 6 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 15 ADC = 10
+ n_TotalFireTimeBin = 7 timebin = 14 ADC = 10
+ n_TotalFireTimeBin = 8 timebin = 13 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+12       25       6       
+Strip = 2101
+n_FireChannel = 1
+timebin = 53 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 53 ADC = 8
+timebin = 52 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 52 ADC = 8
+timebin = 51 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 51 ADC = 9
+36
+10       21       13      
+Strip = 2137
+n_FireChannel = 2
+timebin = 32 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 32 ADC = 8
+timebin = 31 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 31 ADC = 9
+timebin = 30 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 30 ADC = 11
+79th Event
+ n_TotalFireTimeBin = 0 timebin = 53 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 52 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 51 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 32 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 31 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 30 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+14       29       6       
+Strip = 2165
+n_FireChannel = 1
+timebin = 37 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 37 ADC = 10
+timebin = 36 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 36 ADC = 10
+timebin = 35 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 35 ADC = 9
+80th Event
+ n_TotalFireTimeBin = 0 timebin = 37 ADC = 10
+ n_TotalFireTimeBin = 1 timebin = 36 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 35 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 3
+36
+15       30       1       
+Strip = 3175
+n_FireChannel = 1
+timebin = 23 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 23 ADC = 8
+timebin = 22 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 22 ADC = 9
+timebin = 21 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 21 ADC = 8
+36
+6        12       5       
+Strip = 3053
+n_FireChannel = 2
+timebin = 51 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 51 ADC = 8
+timebin = 50 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 50 ADC = 8
+timebin = 49 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 49 ADC = 9
+timebin = 3 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 3 ADC = 8
+timebin = 2 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 7 timebin = 2 ADC = 8
+timebin = 1 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 8 timebin = 1 ADC = 8
+36
+14       28       5       
+Strip = 2179
+n_FireChannel = 3
+timebin = 4 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 4 ADC = 8
+timebin = 3 ADC = 13
+n_FireChannel = 3 n_FireTimeBin = 10 timebin = 3 ADC = 13
+timebin = 2 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 11 timebin = 2 ADC = 8
+36
+12       24       2       
+Strip = 2114
+n_FireChannel = 4
+timebin = 18 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 18 ADC = 9
+timebin = 17 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 13 timebin = 17 ADC = 10
+timebin = 16 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 14 timebin = 16 ADC = 10
+81th Event
+ n_TotalFireTimeBin = 0 timebin = 23 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 22 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 21 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 51 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 50 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 49 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 3 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 2 ADC = 8
+ n_TotalFireTimeBin = 8 timebin = 1 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 4 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 3 ADC = 13
+ n_TotalFireTimeBin = 11 timebin = 2 ADC = 8
+ n_TotalFireTimeBin = 12 timebin = 18 ADC = 9
+ n_TotalFireTimeBin = 13 timebin = 17 ADC = 10
+ n_TotalFireTimeBin = 14 timebin = 16 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+15       31       2       
+Strip = 3161
+n_FireChannel = 1
+timebin = 49 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 49 ADC = 8
+timebin = 48 ADC = 13
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 48 ADC = 13
+timebin = 47 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 47 ADC = 8
+36
+10       20       3       
+Strip = 2145
+n_FireChannel = 2
+timebin = 33 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 33 ADC = 9
+timebin = 32 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 32 ADC = 9
+timebin = 31 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 31 ADC = 10
+82th Event
+ n_TotalFireTimeBin = 0 timebin = 49 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 48 ADC = 13
+ n_TotalFireTimeBin = 2 timebin = 47 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 33 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 32 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 31 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 3
+36
+13       27       10      
+Strip = 3108
+n_FireChannel = 1
+timebin = 46 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 46 ADC = 8
+timebin = 45 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 45 ADC = 9
+timebin = 44 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 44 ADC = 8
+36
+4        9        2       
+Strip = 2003
+n_FireChannel = 2
+timebin = 24 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 24 ADC = 8
+timebin = 23 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 23 ADC = 9
+timebin = 22 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 22 ADC = 9
+36
+14       28       9       
+Strip = 2190
+n_FireChannel = 3
+timebin = 47 ADC = 12
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 47 ADC = 12
+timebin = 46 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 46 ADC = 9
+timebin = 45 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 45 ADC = 8
+timebin = 44 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 44 ADC = 10
+36
+14       28       8       
+Strip = 2189
+n_FireChannel = 4
+timebin = 54 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 54 ADC = 8
+36
+12       25       0       
+Strip = 2095
+n_FireChannel = 5
+timebin = 16 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 11 timebin = 16 ADC = 8
+timebin = 15 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 12 timebin = 15 ADC = 8
+timebin = 14 ADC = 8
+n_FireChannel = 5 n_FireTimeBin = 13 timebin = 14 ADC = 8
+36
+20       41       6       
+Strip = 3007
+n_FireChannel = 6
+timebin = 35 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 14 timebin = 35 ADC = 8
+timebin = 34 ADC = 11
+n_FireChannel = 6 n_FireTimeBin = 15 timebin = 34 ADC = 11
+timebin = 33 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 16 timebin = 33 ADC = 8
+83th Event
+ n_TotalFireTimeBin = 0 timebin = 46 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 45 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 44 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 24 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 23 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 22 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 47 ADC = 12
+ n_TotalFireTimeBin = 7 timebin = 46 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 45 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 44 ADC = 10
+ n_TotalFireTimeBin = 10 timebin = 54 ADC = 8
+ n_TotalFireTimeBin = 11 timebin = 16 ADC = 8
+ n_TotalFireTimeBin = 12 timebin = 15 ADC = 8
+ n_TotalFireTimeBin = 13 timebin = 14 ADC = 8
+ n_TotalFireTimeBin = 14 timebin = 35 ADC = 8
+ n_TotalFireTimeBin = 15 timebin = 34 ADC = 11
+ n_TotalFireTimeBin = 16 timebin = 33 ADC = 8
+n_FireChannel = 6 n_FireTimeBin = 3
+36
+4        9        4       
+Strip = 2005
+n_FireChannel = 1
+timebin = 28 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 28 ADC = 11
+timebin = 27 ADC = 13
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 27 ADC = 13
+timebin = 26 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 26 ADC = 10
+36
+4        8        13      
+Strip = 2028
+n_FireChannel = 2
+timebin = 31 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 31 ADC = 8
+timebin = 30 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 30 ADC = 8
+timebin = 29 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 29 ADC = 8
+36
+3        6        8       
+Strip = 2063
+n_FireChannel = 3
+timebin = 22 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 22 ADC = 8
+timebin = 21 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 21 ADC = 11
+timebin = 20 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 20 ADC = 8
+36
+14       28       9       
+Strip = 2190
+n_FireChannel = 4
+timebin = 2 ADC = 12
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 2 ADC = 12
+timebin = 1 ADC = 12
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 1 ADC = 12
+timebin = 0 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 0 ADC = 10
+84th Event
+ n_TotalFireTimeBin = 0 timebin = 28 ADC = 11
+ n_TotalFireTimeBin = 1 timebin = 27 ADC = 13
+ n_TotalFireTimeBin = 2 timebin = 26 ADC = 10
+ n_TotalFireTimeBin = 3 timebin = 31 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 30 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 29 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 22 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 21 ADC = 11
+ n_TotalFireTimeBin = 8 timebin = 20 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 2 ADC = 12
+ n_TotalFireTimeBin = 10 timebin = 1 ADC = 12
+ n_TotalFireTimeBin = 11 timebin = 0 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+14       28       11      
+Strip = 2188
+n_FireChannel = 1
+timebin = 19 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 19 ADC = 8
+timebin = 18 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 18 ADC = 9
+timebin = 17 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 17 ADC = 8
+36
+14       28       1       
+Strip = 2175
+n_FireChannel = 2
+timebin = 18 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 18 ADC = 9
+timebin = 17 ADC = 12
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 17 ADC = 12
+timebin = 16 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 16 ADC = 9
+timebin = 15 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 15 ADC = 8
+36
+10       20       13      
+Strip = 2154
+n_FireChannel = 3
+timebin = 51 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 51 ADC = 9
+timebin = 50 ADC = 13
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 50 ADC = 13
+timebin = 49 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 49 ADC = 9
+36
+10       20       11      
+Strip = 2156
+n_FireChannel = 4
+timebin = 52 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 52 ADC = 8
+timebin = 51 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 51 ADC = 9
+timebin = 50 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 12 timebin = 50 ADC = 8
+85th Event
+ n_TotalFireTimeBin = 0 timebin = 19 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 18 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 17 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 18 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 17 ADC = 12
+ n_TotalFireTimeBin = 5 timebin = 16 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 15 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 51 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 50 ADC = 13
+ n_TotalFireTimeBin = 9 timebin = 49 ADC = 9
+ n_TotalFireTimeBin = 10 timebin = 52 ADC = 8
+ n_TotalFireTimeBin = 11 timebin = 51 ADC = 9
+ n_TotalFireTimeBin = 12 timebin = 50 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+30       61       8       
+Strip = 3174
+n_FireChannel = 1
+timebin = 45 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 45 ADC = 9
+timebin = 44 ADC = 13
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 44 ADC = 13
+timebin = 43 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 43 ADC = 11
+36
+16       32       3       
+Strip = 1019
+n_FireChannel = 2
+timebin = 47 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 47 ADC = 8
+timebin = 46 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 46 ADC = 9
+timebin = 45 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 45 ADC = 8
+36
+1        2        4       
+Strip = 1022
+n_FireChannel = 3
+timebin = 46 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 46 ADC = 8
+timebin = 45 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 45 ADC = 10
+timebin = 44 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 44 ADC = 9
+36
+10       21       8       
+Strip = 2142
+n_FireChannel = 4
+timebin = 43 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 43 ADC = 8
+timebin = 42 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 42 ADC = 9
+timebin = 41 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 41 ADC = 8
+86th Event
+ n_TotalFireTimeBin = 0 timebin = 45 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 44 ADC = 13
+ n_TotalFireTimeBin = 2 timebin = 43 ADC = 11
+ n_TotalFireTimeBin = 3 timebin = 47 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 46 ADC = 9
+ n_TotalFireTimeBin = 5 timebin = 45 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 46 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 45 ADC = 10
+ n_TotalFireTimeBin = 8 timebin = 44 ADC = 9
+ n_TotalFireTimeBin = 9 timebin = 43 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 42 ADC = 9
+ n_TotalFireTimeBin = 11 timebin = 41 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+29       58       11      
+Strip = 2156
+n_FireChannel = 1
+timebin = 21 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 21 ADC = 9
+timebin = 20 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 20 ADC = 8
+timebin = 19 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 19 ADC = 8
+timebin = 18 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 3 timebin = 18 ADC = 8
+36
+25       50       12      
+Strip = 2121
+n_FireChannel = 2
+timebin = 7 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 7 ADC = 8
+timebin = 6 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 6 ADC = 9
+timebin = 5 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 6 timebin = 5 ADC = 8
+36
+10       21       15      
+Strip = 2135
+n_FireChannel = 3
+timebin = 39 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 39 ADC = 9
+timebin = 38 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 38 ADC = 8
+timebin = 37 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 9 timebin = 37 ADC = 8
+87th Event
+ n_TotalFireTimeBin = 0 timebin = 21 ADC = 9
+ n_TotalFireTimeBin = 1 timebin = 20 ADC = 8
+ n_TotalFireTimeBin = 2 timebin = 19 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 18 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 7 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 6 ADC = 9
+ n_TotalFireTimeBin = 6 timebin = 5 ADC = 8
+ n_TotalFireTimeBin = 7 timebin = 39 ADC = 9
+ n_TotalFireTimeBin = 8 timebin = 38 ADC = 8
+ n_TotalFireTimeBin = 9 timebin = 37 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+4        8        14      
+Strip = 2025
+n_FireChannel = 1
+timebin = 54 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 54 ADC = 8
+36
+25       50       12      
+Strip = 2121
+n_FireChannel = 2
+timebin = 29 ADC = 10
+n_FireChannel = 2 n_FireTimeBin = 1 timebin = 29 ADC = 10
+timebin = 28 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 2 timebin = 28 ADC = 8
+timebin = 27 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 27 ADC = 8
+36
+12       24       2       
+Strip = 2114
+n_FireChannel = 3
+timebin = 40 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 4 timebin = 40 ADC = 8
+timebin = 39 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 5 timebin = 39 ADC = 10
+timebin = 38 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 38 ADC = 8
+88th Event
+ n_TotalFireTimeBin = 0 timebin = 54 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 29 ADC = 10
+ n_TotalFireTimeBin = 2 timebin = 28 ADC = 8
+ n_TotalFireTimeBin = 3 timebin = 27 ADC = 8
+ n_TotalFireTimeBin = 4 timebin = 40 ADC = 8
+ n_TotalFireTimeBin = 5 timebin = 39 ADC = 10
+ n_TotalFireTimeBin = 6 timebin = 38 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 3
+36
+29       58       10      
+Strip = 2155
+n_FireChannel = 1
+timebin = 8 ADC = 13
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 8 ADC = 13
+timebin = 7 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 7 ADC = 11
+timebin = 6 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 6 ADC = 9
+36
+14       29       9       
+Strip = 2173
+n_FireChannel = 2
+timebin = 41 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 41 ADC = 9
+timebin = 40 ADC = 11
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 40 ADC = 11
+timebin = 39 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 39 ADC = 8
+36
+14       28       10      
+Strip = 2187
+n_FireChannel = 3
+timebin = 42 ADC = 10
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 42 ADC = 10
+timebin = 41 ADC = 11
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 41 ADC = 11
+timebin = 40 ADC = 9
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 40 ADC = 9
+36
+14       28       2       
+Strip = 2178
+n_FireChannel = 4
+timebin = 46 ADC = 8
+n_FireChannel = 4 n_FireTimeBin = 9 timebin = 46 ADC = 8
+timebin = 45 ADC = 9
+n_FireChannel = 4 n_FireTimeBin = 10 timebin = 45 ADC = 9
+timebin = 44 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 11 timebin = 44 ADC = 10
+89th Event
+ n_TotalFireTimeBin = 0 timebin = 8 ADC = 13
+ n_TotalFireTimeBin = 1 timebin = 7 ADC = 11
+ n_TotalFireTimeBin = 2 timebin = 6 ADC = 9
+ n_TotalFireTimeBin = 3 timebin = 41 ADC = 9
+ n_TotalFireTimeBin = 4 timebin = 40 ADC = 11
+ n_TotalFireTimeBin = 5 timebin = 39 ADC = 8
+ n_TotalFireTimeBin = 6 timebin = 42 ADC = 10
+ n_TotalFireTimeBin = 7 timebin = 41 ADC = 11
+ n_TotalFireTimeBin = 8 timebin = 40 ADC = 9
+ n_TotalFireTimeBin = 9 timebin = 46 ADC = 8
+ n_TotalFireTimeBin = 10 timebin = 45 ADC = 9
+ n_TotalFireTimeBin = 11 timebin = 44 ADC = 10
+n_FireChannel = 4 n_FireTimeBin = 3
+36
+14       28       8       
+Strip = 2189
+n_FireChannel = 1
+timebin = 19 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 19 ADC = 8
+timebin = 18 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 18 ADC = 9
+timebin = 17 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 17 ADC = 9
+90th Event
+ n_TotalFireTimeBin = 0 timebin = 19 ADC = 8
+ n_TotalFireTimeBin = 1 timebin = 18 ADC = 9
+ n_TotalFireTimeBin = 2 timebin = 17 ADC = 9
+n_FireChannel = 1 n_FireTimeBin = 3
+36
+29       59       15      
+Strip = 2135
+n_FireChannel = 1
+timebin = 9 ADC = 8
+n_FireChannel = 1 n_FireTimeBin = 0 timebin = 9 ADC = 8
+timebin = 8 ADC = 11
+n_FireChannel = 1 n_FireTimeBin = 1 timebin = 8 ADC = 11
+timebin = 7 ADC = 10
+n_FireChannel = 1 n_FireTimeBin = 2 timebin = 7 ADC = 10
+36
+14       29       3       
+Strip = 2162
+n_FireChannel = 2
+timebin = 44 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 3 timebin = 44 ADC = 8
+timebin = 43 ADC = 8
+n_FireChannel = 2 n_FireTimeBin = 4 timebin = 43 ADC = 8
+timebin = 42 ADC = 9
+n_FireChannel = 2 n_FireTimeBin = 5 timebin = 42 ADC = 9
+36
+27       54       2       
+Strip = 2178
+n_FireChannel = 3
+timebin = 28 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 6 timebin = 28 ADC = 8
+timebin = 27 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 7 timebin = 27 ADC = 8
+timebin = 26 ADC = 8
+n_FireChannel = 3 n_FireTimeBin = 8 timebin = 26 ADC = 8
+nEvts = 91
