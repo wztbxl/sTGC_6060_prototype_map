@@ -3,6 +3,8 @@
 // issue 1 : first  nFireTimeBin is not correct, thinking about how to init
 // issue 2 : Timebin and ADC did not work, all of them is 0
 
+// 2021/03/16 try to remove the line of read information line, directly use sTGC line to get the nEvt
+
 #include <iostream>
 #include <string>
 #include <fstream>
@@ -25,6 +27,7 @@ StsTGCData mEvtData;
 int TimeBin;
 int ADC;
 string FEE, ALTRO, Channel;
+string Evt;
 
 void BookTree();
 
@@ -55,31 +58,6 @@ void ReadRawData( string name )
     {
         getline ( RawData, line );
         if ( !line.size() ) continue;// ignore empty lines
-        if ( line.size() > 170 )
-        {
-            if ( line.find( "sequence" ) != line.npos ) 
-            { 
-                cout << nEvts <<"th Event" << endl; 
-                if ( nEvts != 0 ) // save the information of last event
-                {
-                    mEvtData.mEventId = nEvts;
-                    mEvtData.nFireChannel = n_FireChannel;
-                    for ( int i = 0; i < n_TotalFireTimeBin; i++ )
-                    {
-                        cout << " n_TotalFireTimeBin = " << i << " timebin = " << mEvtData.TimeBin[i] << " ADC = " << mEvtData.ADC[i] << endl;
-                    }
-                    cout << "n_FireChannel = " << n_FireChannel << " n_FireTimeBin = " << n_FireTimeBin << endl;
-                    mEvtData.nFireTimeBin[n_FireChannel-1] = n_FireTimeBin;
-                    mEvtTree->Fill();
-
-                    // cout << "n_FireChannel = " << n_FireChannel << " n_FireTimeBin = " << n_FireTimeBin << " timebin = " << mEvtData.TimeBin[n_FireChannel-1][n_FireTimeBin-1] << " ADC = " << mEvtData.ADC[n_FireChannel][n_FireTimeBin-1] << endl;
-                    memset(&mEvtData, 0, sizeof(mEvtData));
-                    n_FireChannel = 0;
-                    n_TotalFireTimeBin = 0;
-                }
-                nEvts++;
-            }
-        }
 
         if ( line[0] == 'S' && line[1] == 'T' ) //
         {
@@ -87,12 +65,36 @@ void ReadRawData( string name )
             FEE = line.substr( line.find( "FEE" )+3, 2 );
             ALTRO = line.substr( line.find( "ALTRO " )+6, 2 );
             Channel = line.substr( line.find( "):" )+2, 2 );
-            int i_FEE, i_ALTRO, i_Channel;
-            i_FEE = stoi(FEE); i_ALTRO = stoi(ALTRO); i_Channel = stoi(Channel);
+            int Pos1, Pos2;
+            Pos1 = line.find( "evt " )+4;
+            Pos2 = line.find( ": sec" );
+            Evt = line.substr( Pos1, Pos2 );
+            int i_FEE, i_ALTRO, i_Channel, i_Evt;
+            i_FEE = stoi(FEE); i_ALTRO = stoi(ALTRO); i_Channel = stoi(Channel); i_Evt = stoi(Evt);
             int number = stoi(FEE)*10000+stoi(ALTRO)*100+stoi(Channel);
+
+            if ( nEvts != i_Evt && nEvts != 0)
+            {
+                mEvtData.mEventId = nEvts;
+                mEvtData.nFireChannel = n_FireChannel;
+                for ( int i = 0; i < n_TotalFireTimeBin; i++ )
+                {
+                    cout << " n_TotalFireTimeBin = " << i << " timebin = " << mEvtData.TimeBin[i] << " ADC = " << mEvtData.ADC[i] << endl;
+                }
+                cout << "n_FireChannel = " << n_FireChannel << " n_FireTimeBin = " << n_FireTimeBin << endl;
+                mEvtData.nFireTimeBin[n_FireChannel-1] = n_FireTimeBin;
+                mEvtTree->Fill();
+
+                // cout << "n_FireChannel = " << n_FireChannel << " n_FireTimeBin = " << n_FireTimeBin << " timebin = " << mEvtData.TimeBin[n_FireChannel-1][n_FireTimeBin-1] << " ADC = " << mEvtData.ADC[n_FireChannel][n_FireTimeBin-1] << endl;
+                memset(&mEvtData, 0, sizeof(mEvtData));
+                n_FireChannel = 0;
+                n_TotalFireTimeBin = 0;
+            }
+            nEvts = i_Evt;
             if ( i_FEE <= 15 ) 
             {
-                int Strip = layer1.GetStripNumber( i_FEE, i_ALTRO, i_Channel );
+                // int Strip = layer1.GetStripNumber( i_FEE, i_ALTRO, i_Channel );
+                int Strip = layer1.GetStripNumber_MirrorFlip( i_FEE, i_ALTRO, i_Channel );
                 mEvtData.Strip_Number[n_FireChannel] = Strip;
                 cout << left << setw(8) <<i_FEE << " " << left << setw(8) << i_ALTRO << " " << left << setw(8) << i_Channel << endl;
                 cout << "Strip = " << Strip << endl;
@@ -130,11 +132,12 @@ void ReadRawData( string name )
 
     }
     cout << "nEvts = " << nEvts << endl;
-
     int pos = name.find(".txt");
-    name.replace( pos, string(".txt").length(), ".root");
+    name.replace( pos, string(".txt").length(), "_test_newLayer.root");
     TFile* OutFile = new TFile( name.data(), "recreate" );
     mEvtTree->Write();
+    
+    
     
 }
 
@@ -152,6 +155,6 @@ void BookTree()
     mEvtTree->Branch("Channel_Number", mEvtData.Channel_Number, "Channel_Number[nFireChannel]/I");
     mEvtTree->Branch("Strip_Number", mEvtData.Strip_Number, "Strip_Number[nFireChannel]/I");
     mEvtTree->Branch("nFireTimeBin", mEvtData.nFireTimeBin, "nFireTimeBin[nFireChannel]/I");
-    mEvtTree->Branch("TimeBin", mEvtData.TimeBin, "TimeBin[1000]/I");
-    mEvtTree->Branch("ADC", mEvtData.ADC, "ADC[1000]/I");
+    mEvtTree->Branch("TimeBin", mEvtData.TimeBin, "TimeBin[100000]/I");
+    mEvtTree->Branch("ADC", mEvtData.ADC, "ADC[100000]/I");
 }
